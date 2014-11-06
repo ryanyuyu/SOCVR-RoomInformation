@@ -12,6 +12,8 @@ There are no obligations. We can't force you to do anything, and we don't want t
 
 We are also trying out a new tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a SEDE query.
 
+We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropiate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
+
 ##How can I join in?
 
 First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meetups. There are two time periods to choose from (you can choose both if you are able to) so that people in all timezones can join.
@@ -27,3 +29,7 @@ Members of chat have made some user scripts to help make your life easier (or ju
 * Highlight chat messages
 
 The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes
+
+----
+
+1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/posts/251956/revisions). Mentioned here for attributation purposes.
