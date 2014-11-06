@@ -23,7 +23,7 @@ If you can't wait until a weekly event, or want to help out more often, we do a 
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
 
 * [Shortcut keys](https://github.com/kappa7194/stackoverflow-close-votes-shortcuts) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
-* Confetti chat messages
+* [Confetti chat messages](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ChatRoomConfetti.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
 * Highlight chat messages
 
 (these will be updated with links shortly)
