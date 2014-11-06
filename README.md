@@ -1,7 +1,4 @@
-#General Information about the SO Close Vote Reviewers Chat Room
-
-
-##What is the SO Close Vote Reviewers Chat Room?
+#What is the SO Close Vote Reviewers Chat Room?
 
 Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything.
 
