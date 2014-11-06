@@ -10,7 +10,7 @@ The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/s
 
 There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morals. We are also here to help with questions about what to do. Not sure what to do with a review item? Post a link and we will take a look at it!
 
-We are also trying out a new tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a [SEDE query](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes).
+We are also trying out a new tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a SEDE query.
 
 ##How can I join in?
 
@@ -26,4 +26,4 @@ Members of chat have made some user scripts to help make your life easier (or ju
 * [Confetti chat messages](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ChatRoomConfetti.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
 * Highlight chat messages
 
-(these will be updated with links shortly)
+The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes
