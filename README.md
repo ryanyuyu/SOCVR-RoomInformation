@@ -32,4 +32,4 @@ The following is the Stack Exchange Data Exporter query we use for deteriming wh
 
 ----
 
-1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/posts/251956/revisions). Mentioned here for attributation purposes.
+1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attributation purposes.
