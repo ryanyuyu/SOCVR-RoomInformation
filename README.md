@@ -20,6 +20,10 @@ First, check out the [chat room's schedule of events](http://chat.stackoverflow.
 
 If you can't wait until a weekly event, or want to help out more often, we do a smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and help us fight the queue (times change by day and member availability).
 
+##What if you make a mistake?
+
+We are all humans and have different backgrounds but solid reputation in a wide-range of tags. If you feel we mis-judged a gem, closed for the wrong reason or blindly followed advice from our peers feel free to ask for a reopen. Based on your feedback we'll learn, improve your question and help in getting it re-opened by casting re-open votes. This will improve our actions, so please provide feedback.
+
 ##Any resources to help?
 
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
