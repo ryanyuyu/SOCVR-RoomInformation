@@ -32,7 +32,9 @@ Members of chat have made some user scripts to help make your life easier (or ju
 * [Confetti chat messages](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ChatRoomConfetti.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
 * Highlight chat messages
 
-The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes
+The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
+
+You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explination for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
 ----
 
