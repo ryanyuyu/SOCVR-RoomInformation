@@ -28,9 +28,11 @@ We are all humans and have different backgrounds but solid reputation in a wide-
 
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
 
-* [Shortcut keys](https://github.com/kappa7194/stackoverflow-close-votes-shortcuts) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
+* [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.js) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
 * [Confetti chat messages](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ChatRoomConfetti.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
 * Highlight chat messages
+
+We have a chat bot that you can play around with and help keep track of our activites. You can find the code base [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot). The bot's name is `Closey`; hop in the room and type `@Closey help`.
 
 The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
 
