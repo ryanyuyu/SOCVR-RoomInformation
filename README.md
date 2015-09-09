@@ -4,7 +4,7 @@ Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly
 
 We feel your pain. We want to help. Together, we can make a dent.
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ. We concentrate our efforts on a single tag at a time, and it works. We ensure that more reviews _matter_, and more reviews get completed.
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ. We concentrate our efforts on a single tag at a time, and it works. The tags are either selected from a query or from [burninate requests](http://meta.stackoverflow.com/questions/new/burninate-request?show=all&sort=recentlyactive&pageSize=50) on meta. We ensure that more reviews _matter_, and more reviews get completed.
 
 ##How does it work? 
 
@@ -14,11 +14,15 @@ We are also trying out a new tactic for the queue's filtering. By having all mem
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropiate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
+When we run into posts that need special moderation attention links are shared and opinions gathered to find the best way forward. Now and then you'll find meta-posts that were incubated in the chat room before posting. 
+
 ##How can I join in?
 
 First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meetups. There are two time periods to choose from (you can choose both if you are able to) so that people in all timezones can join.
 
 If you can't wait until a weekly event, or want to help out more often, we do a smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and help us fight the queue (times change by day and member availability).
+
+The room is vibrant on a dialy basis to help you with moderating across tags. Feel free to leave a message if you need help with close voting, re-opening, reviewing, flagging and/or editing.
 
 ##What if you make a mistake?
 
