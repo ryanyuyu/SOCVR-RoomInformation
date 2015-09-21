@@ -26,31 +26,36 @@ The RO basically are there to slow down the enthousiastic crowd and to make sure
 We are the godfathers to prevent the room to become the mob.
 
 ## What sort of behavior should Room Owners enforce?
-The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external review.
+The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight.
 
-We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As room owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfil those needs.  
+We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfil those needs.
 
-**No matter what is aked from us, we moderate the post and educate the user, the [be nice policy](http:/link) is our bible.** 
+**No matter what is aked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.** 
 
-Room owners step in the moment we notice users are targetted by any roommember. This goes without warning.
+Room Owners step in the moment we notice site users are targetted by any room member. This goes without warning.
 
-* [cv-pls] should not be a habbit for users. Don't make it a habbit to fast-track a particular post to the front of the closure system. Exceptions are if the post is _really_ bad or that tag's users can't close in time. (this bullet point should have it's own section)
-* cv-pls -> Close vote please, not Close vote or I stab you
-* Extended discussion about cv-pls is useless, we don't have to agree/concensus about a cv-pls. We're not a democracy.
-* However, users that are posting cv-pls that are blatantly wrong will be told so, the final verdict is on the RO team
-* Any RO's descision is final, unless the RO team decide otherwise
-* Tag burniation requests are backed by an MSO post
-* Tag cleanup requests are backed by an MSO post
-* All members are acountable for their actions when and if such accountability is requested on meta
-* A post is only active edited/commented/handled by one members of the room (not 4 members all leaving witty statements)
-* All discussions are public but the RO team has an offline/private lounge to reduce noise
-* The tags the room focus on is in the room description
+###General behavior for Room Owners:
+* Any RO's descision is final, unless the RO team decide otherwise. Make sure you are ok with exurting your power, but understand when it is nessisary to do so to keep the pease.
 * Messages that are starred with a tag in it will be cleared from the starboard
-* Please keep the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relivent.
 * Try to keep messages with tags out of the starboard unless they are tags to work on, they will confuse people.
+* Please keep the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relivent.
+* Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
+
+###General expectations for Members:
+* [cv-pls] should not be a habit for users. Don't make it an instict to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
+* [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other memebers to close vote any post you bring up, and do not pressure anyone into doing so.
+* Extended discussion about a [cv-pls] is useless; we don't have to agree/concensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
+* All members are acountable for their actions when and if such accountability is requested on meta.
+* Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with signifigant community support.
+* A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
+* All discussions are public. The RO team has an offline/private lounge for sencitive subjects if nessisary.
+
+
+
+
 
 <!-- -->
 
- [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
- 
+ [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion 
 <!-- this is the best link I could find, feel free to get a better one -->
+ [2]: http://stackoverflow.com/help/be-nice
