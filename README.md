@@ -14,6 +14,11 @@ We are also trying out a new tactic for the queue's filtering. By having all mem
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropiate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
+##What are the chat room rules?
+To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow. You can read about them here:
+
+[Chat Member Guidelines](room-owner-guidelines.md)
+
 ##How can I join in?
 
 First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meetups. There are two time periods to choose from (you can choose both if you are able to) so that people in all timezones can join.
