@@ -11,12 +11,15 @@ The room owners are
 
 ## Let's recap the goals of the CV Chat Room
 
-The room originated as a meeting place once a week to handle your 40 allotted review task. The feeling to make a dent with a couple of fellow users would work as an incentive. The incentive and making dents is still there. The moderation efforts of the room broadend, still aiming to reduce the close vote queue. However the room now acts pro-active, by issue-ing cv-pls requests, re-open voting, tag clean-up and burnination efforts, editing, coaching/commenting, as well as roomba-ing and delete voting.
+The room originated as a meeting place once a week to handle your 40 allotted review tasks. The feeling to make a dent with a couple of fellow users worked as an incentive. The motivation to make a difference is still there. 
+
+The moderation efforts of the room broadend, still aiming to reduce the close vote queue. However the room now acts pro-actively by issueing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
 ## Why do we need room owners?
 
-We really shouldn't need room owners, and with that this guideline.   
-To be an effective member of this room you'll need access to the review-queues and you better have some experience on main. Ideally 3K, but 1K will do. That assumes you know the site and assumes you have enough experience in (self)moderation.  
+We really shouldn't need room owners, but because we do we need to establish some guidelines.
+
+To be an effective member of this room you'll need access to the review queues and you _better_ have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
 
 The RO basically are there to slow down the enthousiastic crowd and to make sure we focus on posts and their quality and not on users.
 
@@ -45,3 +48,9 @@ Room owners step in the moment we notice users are targetted by any roommember. 
 * Messages that are starred with a tag in it will be cleared from the starboard
 * Please keep the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relivent.
 * Try to keep messages with tags out of the starboard unless they are tags to work on, they will confuse people.
+
+<!-- -->
+
+ [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
+ 
+<!-- this is the best link I could find, feel free to get a better one -->
