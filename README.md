@@ -113,3 +113,5 @@ We feel your pain. We want to help. Together, we can make a dent.
 
 
  [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion 
+<!-- this is the best link I could find, feel free to get a better one -->
+ [2]: http://stackoverflow.com/help/be-nice
