@@ -1,14 +1,14 @@
 #What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ, reviewing and clean-up efforts. 
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing and clean-up efforts.
 
-The moderation efforts of the room broaden, still aiming to reduce the close vote queue. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
-## What sort of behaviour is expected?
+## What sort of behavior is expected?
 
-We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfil those needs.
+We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
 
-**No matter what is asked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.** 
+**No matter what is asked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.**
 
 Make sure you are ok with exerting your power, but understand when it is necessary to do so to keep the peace.
 
@@ -16,12 +16,11 @@ We are open for any critic, feedback and guidance received from the community as
 
 Room Owners step in the moment we notice site users are targeted by any room member. This goes without warning.
 
-
 ##What are the chat room rules?
 
 To be an effective member of this room you'll need access to the review queues and you _better_ have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
 
-To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow. 
+To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
 
 ###General expectations for Members:
 * [cv-pls] should not be a habit for users. Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
@@ -30,40 +29,37 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * All members are accountable for their actions when and if such accountability is requested on meta.
 * Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with significant community support.
 * A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
-* The one-boxing of pictures is kept to a minumum and at best only (partial) screenshots to support the discussion are encouraged. (post yout meme's in the SO Tavern)
+* Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
 * All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
 * In absence of all Room Owners, the members lead-by-example.
 
-###General behaviour for Room Owners:
-* Is a role model for the kind of participaton expected. 
-* Makes the final call in any dispute, unless the RO team decide otherwise. 
+###Expectations for Room Owners:
+* Is a role model for the kind of participation expected.
+* Makes the final call in any dispute, unless the RO team decide otherwise.
 * Clears messages that are starred with a tag from the starboard
 * Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
 * Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
 * Start the meeting.
 * Schedule the events.
+* Reels in conversation if it gets out of hand.
+* Moves messages or conversations to SO Tavern or a trash bin if necessary.
 
 ## Who are the room owners?
 The room owners are
 
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
-* [durron](http://stackoverflow.com/users/1768232/durron597)
+* [durron597](http://stackoverflow.com/users/1768232/durron597)
 
 [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once and awhile.
 
 ## Why do we need room owners?
 
-We really shouldn't need room owners, but because we do we need to establish some guidelines.
+We really shouldn't need room owners, but because we do we need to establish some guidelines. Room Owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
 
-The RO basically are there to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
+The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight. We lead by example to prevent the room become the mob.
 
-The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight.
-
-We lead by example to prevent the room to become the mob.
-
-
-##How does the room work? 
+##How does the room work?
 
 There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a review item? Post a link and we will take a look at it!
 
@@ -99,10 +95,10 @@ You can see the day-to-day progress of the size of the close vote [from this nea
 
 ##History
 
-Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the 
+Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the
 initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
 
-The room originated as a meeting place once a week to handle your 40 allotted review tasks. The feeling to make a dent with a couple of fellow users worked as an incentive. The motivation to make a difference is still there. 
+The room originated as a meeting place once a week to handle your 40 allotted review tasks. The feeling to make a dent with a couple of fellow users worked as an incentive. The motivation to make a difference is still there.
 
 We feel your pain. We want to help. Together, we can make a dent.
 
@@ -112,6 +108,6 @@ We feel your pain. We want to help. Together, we can make a dent.
 1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attribution purposes.
 
 
- [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion 
+ [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
 <!-- this is the best link I could find, feel free to get a better one -->
  [2]: http://stackoverflow.com/help/be-nice
