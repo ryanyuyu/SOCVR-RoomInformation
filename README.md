@@ -1,10 +1,6 @@
 #What is the SO Close Vote Reviewers Chat Room?
 
-Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
-
-We feel your pain. We want to help. Together, we can make a dent.
-
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ. We concentrate our efforts on a single tag at a time, and it works. We ensure that more reviews _matter_, and more reviews get completed.
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ, reviewing and clean-up efforts. We concentrate our efforts on a single tag at a time, and it works. We ensure that more reviews _matter_, more reviews get completed, and more tags get burninated.
 
 ##How does it work? 
 
@@ -42,6 +38,13 @@ We have a chat bot that you can play around with and help keep track of our acti
 The following is the Stack Exchange Data Exporter query we use for demeriting which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
 
 You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
+
+##History
+
+Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
+
+We feel your pain. We want to help. Together, we can make a dent.
+
 
 ----
 
