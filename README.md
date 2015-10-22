@@ -61,9 +61,9 @@ The CV chat room has quite a bit of power. In the extreme cases we can insta-clo
 
 ##How does the room work?
 
-There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a review item? Post a link and we will take a look at it!
+There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a post? Post a link and we will take a look at it.
 
-We are also using a tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a SEDE query.
+We are also using a tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. The bot, Closey, will inform members of the tags to work on at the start of the event (or on demand with bot commands).
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
@@ -82,7 +82,6 @@ We are all humans and have different backgrounds but solid reputation in a wide-
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
 
 * [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
-* [Confetti chat messages](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/ChatRoomConfetti.user.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
 * [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - Auto completes commands for the chat bot.
 
 We have a chat bot that you can play around with and help keep track of our activities. You can find the code base [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot). The bot's name is `Closey`; hop in the room and type `@Closey help`.
@@ -90,8 +89,6 @@ We have a chat bot that you can play around with and help keep track of our acti
 The following is the Stack Exchange Data Exporter query we use for demeriting which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
 
 You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
-
-
 
 ##History
 
@@ -102,12 +99,12 @@ The room originated as a meeting place once a week to handle your 40 allotted re
 
 We feel your pain. We want to help. Together, we can make a dent.
 
-
 ----
 
 1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attribution purposes.
 
+<!-- this is the best link I could find, feel free to get a better one -->
 
  [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
-<!-- this is the best link I could find, feel free to get a better one -->
+
  [2]: http://stackoverflow.com/help/be-nice
