@@ -1,6 +1,16 @@
 #What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ, reviewing and clean-up efforts. We concentrate our efforts on a single tag at a time, and it works. We ensure that more reviews _matter_, more reviews get completed, and more tags get burninated.
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ, reviewing and clean-up efforts. 
+
+The moderation efforts of the room broaden, still aiming to reduce the close vote queue. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+
+##What are the chat room rules?
+
+To be an effective member of this room you'll need access to the review queues and you _better_ have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
+
+To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow. You can read about them here:
+
+[Chat Member Guidelines](room-owner-guidelines.md)
 
 ##How does it work? 
 
@@ -9,11 +19,6 @@ There are no obligations. We can't force you to do anything, and we don't want t
 We are also trying out a new tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a SEDE query.
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
-
-##What are the chat room rules?
-To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow. You can read about them here:
-
-[Chat Member Guidelines](room-owner-guidelines.md)
 
 ##How can I join in?
 
@@ -39,9 +44,13 @@ The following is the Stack Exchange Data Exporter query we use for demeriting wh
 
 You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
+
 ##History
 
-Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
+Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the 
+initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
+
+The room originated as a meeting place once a week to handle your 40 allotted review tasks. The feeling to make a dent with a couple of fellow users worked as an incentive. The motivation to make a difference is still there. 
 
 We feel your pain. We want to help. Together, we can make a dent.
 
@@ -49,3 +58,6 @@ We feel your pain. We want to help. Together, we can make a dent.
 ----
 
 1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attribution purposes.
+
+
+ [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion 
