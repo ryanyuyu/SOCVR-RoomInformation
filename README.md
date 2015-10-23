@@ -1,28 +1,77 @@
 #What is the SO Close Vote Reviewers Chat Room?
 
-Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing and clean-up efforts.
 
-We feel your pain. We want to help. Together, we can make a dent.
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CVQ. We concentrate our efforts on a single tag at a time, and it works. The tags are either selected from a query or from [burninate requests](http://meta.stackoverflow.com/questions/new/burninate-request?show=all&sort=recentlyactive&pageSize=50) on meta. We ensure that more reviews _matter_, and more reviews get completed.
+## What sort of behavior is expected?
 
-##How does it work? 
+We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
 
-There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a review item? Post a link and we will take a look at it!
+**No matter what is asked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.**
 
-We are also trying out a new tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. Whoever is leading the event of the day (usually Rene) will give the tag suggestion based off a SEDE query.
+Make sure you are ok with exerting your power, but understand when it is necessary to do so to keep the peace.
 
-We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropiate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
+We are open for any critic, feedback and guidance received from the community as we are a part of it.
 
-When we run into posts that need special moderation attention links are shared and opinions gathered to find the best way forward. Now and then you'll find meta-posts that were incubated in the chat room before posting. 
+Room Owners step in the moment we notice site users are targeted by any room member. This goes without warning.
+
+##What are the chat room rules?
+
+To be an effective member of this room you'll need access to the review queues and you _better_ have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
+
+To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
+
+###General expectations for Members:
+* [cv-pls] should not be a habit for users. Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
+* [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
+* Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
+* All members are accountable for their actions when and if such accountability is requested on meta.
+* Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with significant community support.
+* A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
+* Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
+* All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
+* In absence of all Room Owners, the members lead-by-example.
+
+###Expectations for Room Owners:
+* Is a role model for the kind of participation expected.
+* Makes the final call in any dispute, unless the RO team decide otherwise.
+* Clears messages that are starred with a tag from the starboard
+* Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
+* Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
+* Start the meeting.
+* Schedule the events.
+* Reels in conversation if it gets out of hand.
+* Moves messages or conversations to SO Tavern or a trash bin if necessary.
+
+## Who are the room owners?
+The room owners are
+
+* [rene](http://stackoverflow.com/users/578411/rene)
+* [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
+* [durron597](http://stackoverflow.com/users/1768232/durron597)
+
+[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once and awhile.
+
+## Why do we need room owners?
+
+We really shouldn't need room owners, but because we do we need to establish some guidelines. Room Owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
+
+The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight. We lead by example to prevent the room become the mob.
+
+##How does the room work?
+
+There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a post? Post a link and we will take a look at it.
+
+We are also using a tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. The bot, Closey, will inform members of the tags to work on at the start of the event (or on demand with bot commands).
+
+We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
 ##How can I join in?
 
-First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meetups. There are two time periods to choose from (you can choose both if you are able to) so that people in all timezones can join.
+First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meet-ups. There are two time periods to choose from (you can choose both if you are able to) so that people in all time zones can join.
 
 If you can't wait until a weekly event, or want to help out more often, we do a smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and help us fight the queue (times change by day and member availability).
-
-The room is vibrant on a dialy basis to help you with moderating across tags. Feel free to leave a message if you need help with close voting, re-opening, reviewing, flagging and/or editing.
 
 ##What if you make a mistake?
 
@@ -32,22 +81,30 @@ We are all humans and have different backgrounds but solid reputation in a wide-
 
 Members of chat have made some user scripts to help make your life easier (or just more enjoyable).
 
-* [Shortcut keys](https://rawgit.com/SO-Close-Vote-Reviewers/UserScripts/master/CloseVoteShortcuts.user.js) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
-* [Confetti chat messages](https://rawgit.com/SO-Close-Vote-Reviewers/UserScripts/master/ChatRoomConfetti.user.js) - Makes confetti appear on the screen when a type of message is said in chat (alpha status)
-* [Bot Commands Auto-complete](https://rawgit.com/SO-Close-Vote-Reviewers/UserScripts/master/BotCommands.user.js) - Auto completes commands for the chat bot.
-* [SO Close Vote Request Generator](https://rawgit.com/SO-Close-Vote-Reviewers/UserScripts/master/SECloseVoteRequestGenerator.user.js) - A script that sends a <kbd>cv-pls</kbd> message to the chatroom for the post you are currently viewing. ([Documentation](https://github.com/SO-Close-Vote-Reviewers/UserScripts#so-close-vote-request-generator))
+* [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
+* [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - Auto completes commands for the chat bot.
 
-We have a chat bot that you can play around with and help keep track of our activites. You can find the code base [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot). The bot's name is `Closey`; hop in the room and type `@Closey help`.
+We have a chat bot that you can play around with and help keep track of our activities. You can find the code base [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot). The bot's name is `Closey`; hop in the room and type `@Closey help`.
 
-The following is the Stack Exchange Data Exporter query we use for deteriming which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
+The following is the Stack Exchange Data Exporter query we use for demeriting which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
 
-You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explination for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
+You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
-Other favorite tools & user scripts that are popular with our regulars:
+##History
 
-* [AutoReviewComments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se) - This script adds a little 'auto' link next to all comments boxes. When you click the link, you see a popup with configurable auto-comments (canned responses), which you can easily click to insert.
-* [Stack Exchange Editor Toolkit](http://stackapps.com/questions/4899/stack-exchange-editor-toolkit) - One-click automatic editing & edit comments for very common crud.
+Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the
+initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
+
+The room originated as a meeting place once a week to handle your 40 allotted review tasks. The feeling to make a dent with a couple of fellow users worked as an incentive. The motivation to make a difference is still there.
+
+We feel your pain. We want to help. Together, we can make a dent.
 
 ----
 
-1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attributation purposes.
+1: Paragraph adapted from [Rene's original chat room FAQ](http://meta.stackoverflow.com/revisions/251956/9). Mentioned here for attribution purposes.
+
+<!-- this is the best link I could find, feel free to get a better one -->
+
+ [1]: http://meta.stackexchange.com/questions/173513/turbocharging-the-roomba-solutions-for-premature-deletion
+
+ [2]: http://stackoverflow.com/help/be-nice
