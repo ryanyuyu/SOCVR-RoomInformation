@@ -28,6 +28,7 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
 * Most content has some value, work **with** the OP to get their post into shape.
 * De-escalate in case of disagrement. 
+* Keep it professional, keep a high standard.
 * All members are accountable for their actions when and if such accountability is requested on meta.
 * Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with significant community support.
 * A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
