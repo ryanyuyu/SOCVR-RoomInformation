@@ -53,6 +53,7 @@ The room owners are
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
 * [durron597](http://stackoverflow.com/users/1768232/durron597)
+* [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
 
 [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once and awhile.
 
