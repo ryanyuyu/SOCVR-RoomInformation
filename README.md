@@ -73,7 +73,7 @@ We don't want to become a close vote posse. Every user should handle the review 
 
 ##How can I join in?
 
-First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers). It's updated by the room owners and shows the weekly meet-ups. There are two time periods to choose from (you can choose both if you are able to) so that people in all time zones can join.
+First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). It's updated by the room owners and shows the weekly meet-ups. There are two time periods to choose from (you can choose both if you are able to) so that people in all time zones can join.
 
 If you can't wait until a weekly event, or want to help out more often, we do a smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and help us fight the queue (times change by day and member availability).
 
