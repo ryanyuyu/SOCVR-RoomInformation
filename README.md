@@ -71,6 +71,19 @@ We are also using a tactic for the queue's filtering. By having all members conc
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
+##What are all those BOTS doing there
+
+To make our live easier we have the support of three bots that you either can interact with or make you aware of posts that might need our attention.
+
+### Smokey (aka Smoke Detector)
+The Smoke Detector is a  headless chatbot that detects spam and posts links to it to chatrooms for quick deletion.  It is created and maintained by the [CharCoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get reports for Stack Overflow.
+
+### Closey (aka SOCVR-Chatbot)
+The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is designed to track the actions of the members, provide statistics, and perform repetitive tasks that otherwise would have to be done manually.
+
+### Pham (aka Pham)
+The bot reports posts that are low quality. 
+
 ##How can I join in?
 
 First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). It's updated by the room owners and shows the weekly meet-ups. There are two time periods to choose from (you can choose both if you are able to) so that people in all time zones can join.
