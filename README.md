@@ -84,7 +84,7 @@ The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
 **Pham (aka Pham)**  
 [Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various information of the post) to questions/answers that are potentially deemed (very) low quality, the bot does *not* detect spam/abusive posts.
 
-**Yam (aka Yam)**
+**Yam (aka Yam)**  
 [Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network (for 5 days) which can then later be [searched via chat](https://github.com/ArcticEcho/Phamhilator/wiki/Yam-Chat-Commands#privileged-users).
 
 ##How can I join in?
