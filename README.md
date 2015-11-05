@@ -73,7 +73,7 @@ We don't want to become a close vote posse. Every user should handle the review 
 
 ##What are all those BOTS doing there?
 
-To make our live easier we have the support of three bots that you either can interact with or make you aware of posts that might need our attention.
+To make our live easier we have the support of four bots that you either can interact with or make you aware of posts that might need our attention.
 
 **Smokey (aka Smoke Detector)**  
 The Smoke Detector is a  headless chatbot that detects spam and posts links to it to chatrooms for quick deletion.  It is created and maintained by the [CharCoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get reports for Stack Overflow.
@@ -82,7 +82,10 @@ The Smoke Detector is a  headless chatbot that detects spam and posts links to i
 The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is designed to track the actions of the members, provide statistics, and perform repetitive tasks that otherwise would have to be done manually.
 
 **Pham (aka Pham)**  
-The bot reports posts that are low quality. 
+[Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various information of the post) to questions/answers that are potentially deemed (very) low quality, the bot does *not* detect spam/abusive posts.
+
+**Yam (aka Yam)**
+[Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network (for 5 days) which can then later be [searched via chat](https://github.com/ArcticEcho/Phamhilator/wiki/Yam-Chat-Commands#privileged-users).
 
 ##How can I join in?
 
