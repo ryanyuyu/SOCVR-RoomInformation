@@ -34,7 +34,7 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
 * Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
 * All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
-* Do not ask for up or down votes on any questions or answers.
+* Do not ask for up or down votes on questions or answers.
 * In absence of all Room Owners, the members lead-by-example.
 
 ###Expectations for Room Owners:
