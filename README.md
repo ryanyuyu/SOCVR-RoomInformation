@@ -111,7 +111,7 @@ We have a chat bot that you can play around with and help keep track of our acti
 
 The following is the Stack Exchange Data Exporter query we use for demeriting which tags to focus on: [Tags that can be cleared of votes](http://data.stackexchange.com/stackoverflow/query/236526/tags-that-can-be-cleared-of-votes)
 
-You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://hichris.erwaysoftware.com/closegraph.php). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
+You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://socvr.azurewebsites.net/). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
 ##History
 
