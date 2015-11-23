@@ -26,6 +26,7 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * [cv-pls] should not be a habit for users. Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
 * [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
 * Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
+* We don't post feedback on success (or failure) of a [cv-pls] request. (*No boom*)
 * Most content has some value, work **with** the OP to get their post into shape.
 * De-escalate in case of disagreement. 
 * Keep it professional, keep a high standard.
