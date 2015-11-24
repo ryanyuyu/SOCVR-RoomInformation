@@ -23,7 +23,7 @@ To be an effective member of this room you'll need access to the review queues a
 To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
 
 ###General expectations for Members:
-* [cv-pls] should not be a habit for users. Don't make it an instinct to fast-track a particular post to the front of the closure system. Exceptions are made if the post is _really_ bad or the users in that tag can't close the post in time.
+* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
 * [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
 * Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
 * We don't post feedback on success (or failure) of a [cv-pls] request. (*No boom*)
@@ -31,12 +31,13 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 * De-escalate in case of disagreement. 
 * Keep it professional, keep a high standard.
 * All members are accountable for their actions when and if such accountability is requested on meta.
-* Tag burniation requests and tag cleanup requests _must_ be backed by an MSO post with significant community support.
+* Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
 * A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
 * Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
+* Similarly, please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting) and other noisy formatting. (When posting a URL, put some text in front of it.)
 * All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
 * Do not ask for up or down votes on questions or answers.
-* In absence of all Room Owners, the members lead-by-example.
+* In absence of all Room Owners, the members lead by example.
 
 ###Expectations for Room Owners:
 * Is a role model for the kind of participation expected.
@@ -83,10 +84,10 @@ The Smoke Detector is a  headless chatbot that detects spam and posts links to i
 **Closey (aka SOCVR-Chatbot)**  
 The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is designed to track the actions of the members, provide statistics, and perform repetitive tasks that otherwise would have to be done manually.
 
-**Pham (aka Pham)**  
+**Pham**  
 [Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various information of the post) to questions/answers that are potentially deemed (very) low quality, the bot does *not* detect spam/abusive posts.
 
-**Yam (aka Yam)**  
+**Yam**  
 [Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network (for 5 days) which can then later be [searched via chat](https://github.com/ArcticEcho/Phamhilator/wiki/Yam-Chat-Commands#privileged-users).
 
 ##How can I join in?
