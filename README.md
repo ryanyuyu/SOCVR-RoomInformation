@@ -85,10 +85,10 @@ The Smoke Detector is a  headless chatbot that detects spam and posts links to i
 The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is designed to track the actions of the members, provide statistics, and perform repetitive tasks that otherwise would have to be done manually.
 
 **Pham**  
-[Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various information of the post) to questions/answers that are potentially deemed (very) low quality, the bot does *not* detect spam/abusive posts.
+[Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various pieces of information about the post) to questions/answers which are potentially deemed (very) low quality, the bot is *not* intended to detect spam/abusive posts.
 
 **Yam**  
-[Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network (for 5 days) which can then later be [searched via chat](https://github.com/ArcticEcho/Phamhilator/wiki/Yam-Chat-Commands#privileged-users).
+[Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network which is then later used by Pham to improve his detection.
 
 ##How can I join in?
 
