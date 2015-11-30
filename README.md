@@ -22,6 +22,26 @@ To be an effective member of this room you'll need access to the review queues a
 
 To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
 
+##You closed my question!
+
+If a question is closed following a  cv-pls  that was posted in the room you can hop into the room for an explanation. Expect the following policy to be followed to avoid any unnecessary drama:
+
+1. (Whoever first answers. Avoid crowding!) Inform the user about what happened.
+i. What's a  cv-pls 
+ii. How people in the room acted
+iii. What it means to have a question closed
+iv. Explain that from now on, only the author of the cv-pls is going to discuss
+
+
+2. (Author of the cv-pls) Inform the user about the reasons why this happened
+i. Why the question is off-topic
+ii. If it can be improved and how
+iii. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), IDYB...)
+
+
+If the previous has not solved the issue, we will stop the discusson and redirect you to Meta, to have our actions scrutinized by somewhat independent community members.
+
+
 ###General expectations for Members:
 * [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
 * [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
