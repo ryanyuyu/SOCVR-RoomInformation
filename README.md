@@ -27,16 +27,16 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 If a question is closed following a  cv-pls  that was posted in the room you can hop into the room for an explanation. Expect the following policy to be followed to avoid any unnecessary drama:
 
 1. (Whoever first answers. Avoid crowding!) Inform the user about what happened.
-i. What's a  cv-pls 
-ii. How people in the room acted
-iii. What it means to have a question closed
-iv. Explain that from now on, only the author of the cv-pls is going to discuss
+ 1. What's a  cv-pls 
+ 2. How people in the room acted
+ 3. What it means to have a question closed
+ 4. Explain that from now on, only the author of the cv-pls is going to discuss
 
 
 2. (Author of the cv-pls) Inform the user about the reasons why this happened
-i. Why the question is off-topic
-ii. If it can be improved and how
-iii. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), IDYB...)
+  1. Why the question is off-topic
+  2. If it can be improved and how
+  3. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), IDYB...)
 
 
 If the previous has not solved the issue, we will stop the discusson and redirect you to Meta, to have our actions scrutinized by somewhat independent community members.
