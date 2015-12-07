@@ -47,7 +47,7 @@ If the previous has not solved the issue, we will stop the discusson and redirec
 
 **Discussions** about whether or not **borderline** answers warrant flags are allowed, as long as you are actually interested in a discussion and you aren't trying to coerce users into flagging.
 
-You can request people to review a post to add **Close Votes**, but mind the first bullet point under "General Expectations for Members".
+You can request people to review a post to add **Close Votes**, but mind the bullet points under "General Expectations for Members".
 
 ###General expectations for Members:
 * [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
