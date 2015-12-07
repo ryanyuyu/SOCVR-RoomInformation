@@ -41,7 +41,7 @@ If the previous has not solved the issue, we will stop the discusson and redirec
 
 ## Can I request flags?
 
-**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here; a mod will see them anyway, and the amount flags on a post has no bearing on the action they take. 
+**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here; a mod will see them anyway, and the amount of flags on a post has no bearing on the action they take. 
 
 **Spam** and **Offensive** flag requests are allowed; if enough of these flags accumulate, the post will be automatically deleted. 
 
