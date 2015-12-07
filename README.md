@@ -39,6 +39,14 @@ If a question is closed following a cv-pls that was posted in the room you can h
 
 If the previous has not solved the issue, we will stop the discusson and redirect you to Meta to have our actions scrutinized by somewhat independent community members.
 
+## Can I request flags?
+
+**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here; a mod will see them anyway, and the amount flags on a post has no bearing on the action they take. 
+
+**Spam** and **Offensive** flag requests are allowed; if enough of these flags accumulate, the post will be automatically deleted. 
+
+**Discussions** about whether or not **borderline** answers warrant flags are allowed, as long as you are actually interested in a discussion and you aren't trying to coerce users into flagging.
+
 ###General expectations for Members:
 * [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
 * [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
