@@ -76,6 +76,7 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 * Schedule the events.
 * Reels in conversation if it gets out of hand.
 * Moves messages or conversations to SO Tavern or a trash bin if necessary.
+* Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 ## Who are the room owners?
 The room owners are
@@ -101,6 +102,13 @@ There are no obligations. We can't force you to do anything, and we don't want t
 We are also using a tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. The bot, Closey, will inform members of the tags to work on at the start of the event (or on demand with bot commands).
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
+
+##Why do you invite me to the CV Request Graveyard room? 
+
+The Room Owners run a script on a regular basis to clean up the room transcript. Any cv-pls message that links to a question that is closed or deleted will be moved to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard). 
+In that process, if one of the cv-pls you posted gets moved, you get invited to that room. We're sorry about that but we wil not talk there or meet you there. That room is only meant to be the list of handled cv-pls messages. 
+
+So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response for us. It is a by-product of out moving action and we can't prevent you being invited, sorry.
 
 ##What are all those BOTS doing there?
 
