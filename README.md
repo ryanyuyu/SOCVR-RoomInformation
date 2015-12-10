@@ -87,7 +87,7 @@ The room owners are
 * [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
 * [Tiny Giant](http://chat.stackoverflow.com/users/4639281)
 
-[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once and awhile.
+[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in a while.
 
 ## Why do we need room owners?
 
@@ -108,7 +108,7 @@ We don't want to become a close vote posse. Every user should handle the review 
 The Room Owners run a script on a regular basis to clean up the room transcript. Any cv-pls message that links to a question that is closed or deleted will be moved to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard). 
 In that process, if one of the cv-pls you posted gets moved, you get invited to that room. We're sorry about that but we wil not talk there or meet you there. That room is only meant to be the list of handled cv-pls messages. 
 
-So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response for us. It is a by-product of out moving action and we can't prevent you being invited, sorry.
+So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response from us. It is a by-product of our moving action and we can't prevent you being invited, sorry.
 
 ##What are all those BOTS doing there?
 
