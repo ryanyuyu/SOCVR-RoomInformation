@@ -89,7 +89,7 @@ The room owners are
 * [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver),
 * [Tiny Giant](http://chat.stackoverflow.com/users/4639281).
 
-[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in awhile.
+[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in a while.
 
 ## Why do we need room owners?
 
