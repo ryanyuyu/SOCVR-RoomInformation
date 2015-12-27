@@ -1,24 +1,24 @@
 #What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing and clean-up efforts.
+The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing, and clean-up efforts.
 
-The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However the room now acts pro-actively by issuing [cv-pls] requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
 ## What sort of behavior is expected?
 
-We love this community. Our goal is to get rid of the "crap" so the good content can be easier found. As Room Owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
+We love this community. Our goal is to get rid of the "crap" so the good content can be found with greater ease. As room owners we are sensitive for the needs of the community on Stack Overflow and encourage our members to help us create a guidance toolkit that enables all of us to fulfill those needs.
 
 **No matter what is asked from us, we moderate the post and educate the user, the [be nice policy][2] is our bible.**
 
 Make sure you are ok with exerting your power, but understand when it is necessary to do so to keep the peace.
 
-We are open for any critic, feedback and guidance received from the community as we are a part of it.
+We are open for any critic, feedback, and guidance received from the community as we are a part of it.
 
-Room Owners step in the moment we notice site users are targeted by any room member. This goes without warning.
+Room owners step in the moment we notice site users are targeted by any room member. This goes without warning.
 
 ##What are the chat room rules?
 
-To be an effective member of this room you'll need access to the review queues and you _better_ have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
+To be an effective member of this room you'll need access to the review queues and you’ll need to have some experience on Stack Overflow. Ideally 3k reputation, but 1k will do. That assumes you know the core of the site and assumes you have enough experience in (self)moderation.  
 
 To stop us from turning into a chaotic voting ring, we have set up rules and guidelines for members to follow.
 
@@ -26,18 +26,20 @@ To stop us from turning into a chaotic voting ring, we have set up rules and gui
 
 If a question is closed following a cv-pls that was posted in the room you can hop into the room for an explanation. Expect the following policy to be followed to avoid any unnecessary drama:
 
-1. (Whoever first answers. Avoid crowding!) Inform the user about what happened.
- 1. Explanation of a cv-pls
- 2. How people in the room acted
- 3. What it means to have a question closed
- 4. Explain that from now on, only the author of the cv-pls is going to discuss
- 
-2. (Author of the cv-pls) Inform the user about the reasons why this happened
-  1. Why the question is off-topic
-  2. If it can be improved and how
-  3. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), IDYB...)
+**Whoever first answers** (avoid crowding!):
+ 1. Inform the user about what happened.
+ 2. Explanation of a cv-pls.
+ 3. How people in the room acted.
+ 4. What it means to have a question closed.
+ 5. Explain that from now on, only the author of the cv-pls is going to discuss.
 
-If the previous has not solved the issue, we will stop the discusson and redirect you to Meta to have our actions scrutinized by somewhat independent community members.
+**Author of the cv-pls**:
+ 1. Inform the user about the reasons why this happened.
+ 2. Why the question is off-topic.
+ 3. If it can be improved and how.
+ 4. Relevant pointers ([help center](http://stackoverflow.com/help/how-to-ask), [meta posts](http://meta.stackoverflow.com/questions/260648/stack-overflow-question-checklist), IDYB, etc.).
+
+If the previous has not solved the issue, we will stop the discussion and redirect you to Meta to have our actions scrutinized by somewhat independent community members.
 
 ## Can I request flags?
 
@@ -49,24 +51,24 @@ If the previous has not solved the issue, we will stop the discusson and redirec
 
 You can request people to review a post to add **Close Votes**, but mind the bullet points under "General Expectations for Members".
 
-###General expectations for Members:
-* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
-* [cv-pls] mean "close vote _please_", not "close vote or I'll stab you". There should be no expectation for other members to close vote any post you bring up, and do not pressure anyone into doing so.
-* Extended discussion about a [cv-pls] is useless; we don't have to agree/consensus about a close request. We're not a democracy. However, users that are posting [cv-pls] that are blatantly wrong will be told so. The final verdict is on the RO team.
-* We don't post feedback on success (or failure) of a [cv-pls] request. (*No boom*)
-* Most content has some value, work **with** the OP to get their post into shape.
+###General expectations for members:
+* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
+* Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
+* Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
+* Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
+* Work **with** the OP to get their post into shape; most content has some value.
+* Do not ask for up or down votes on any posts.
 * De-escalate in case of disagreement. 
-* Keep it professional, keep a high standard.
-* All members are accountable for their actions when and if such accountability is requested on meta.
 * Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
-* A post is only actively edited/commented/handled by one member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
-* Please try to keep posting images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to the trash can at any time without warning, and such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
-* Similarly, please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting) and other noisy formatting. (When posting a URL, put some text in front of it.)
-* All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
-* Do not ask for up or down votes on questions or answers.
-* In absence of all Room Owners, the members lead by example.
+* A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
+* Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
+* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
+* All members are accountable for their actions. (If/when such accountability is requested on meta.)
+* All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
+* In absence of all room owners, the members lead by example.
+* Keep it professional, keep a high standard.
 
-###Expectations for Room Owners:
+###Expectations for room owners:
 * Is a role model for the kind of participation expected.
 * Makes the final call in any dispute, unless the RO team decide otherwise.
 * Clears messages that are starred with a tag from the starboard
@@ -79,7 +81,7 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 * Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 ## Who are the room owners?
-The room owners are
+The room owners are:
 
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
@@ -91,26 +93,26 @@ The room owners are
 
 ## Why do we need room owners?
 
-We really shouldn't need room owners, but because we do we need to establish some guidelines. Room Owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
+We really shouldn't need room owners, but because we do we need to establish some guidelines. Room owners are here to slow down the enthusiastic crowd and to make sure we focus on posts and their quality and not on users.
 
-The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight. We lead by example to prevent the room become the mob.
+The CV chat room has quite a bit of power. In the extreme cases we can insta-close any question, and this gives us moderator-like powers with very little external oversight. We lead by example to prevent the room from becoming a mob.
 
 ##How does the room work?
 
 There are no obligations. We can't force you to do anything, and we don't want to either. The first purpose of the chat room is to have company as you go through the queue. Having a group beside you as you take on the queue really helps morale. We are also here to help with questions about what to do. Not sure what to do with a post? Post a link and we will take a look at it.
 
-We are also using a tactic for the queue's filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. The bot, Closey, will inform members of the tags to work on at the start of the event (or on demand with bot commands).
+We are also using a tactic for the queue’s filtering. By having all members concentrate on a single tag at a time we have a higher chance of completing the review tasks that we process. The bot, Closey, will inform members of the tags to work on at the start of the event (or on demand with bot commands).
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
 ##Why do you invite me to the CV Request Graveyard room? 
 
-The Room Owners run a script on a regular basis to clean up the room transcript. Any cv-pls message that links to a question that is closed or deleted will be moved to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard). 
-In that process, if one of the cv-pls you posted gets moved, you get invited to that room. We're sorry about that but we wil not talk there or meet you there. That room is only meant to be the list of handled cv-pls messages. 
+The room owners run a script on a regular basis to clean up the room transcript. Any cv-pls message that links to a question which is: closed/deleted, or has no close votes after 3 days will be moved to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard). 
+In that process, if one of the cv-pls you posted gets moved, you get invited to that room. We're sorry about that, but we will not talk there or meet you there. That room is only meant to be the list of handled cv-pls messages. 
 
-So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response from us. It is a by-product of our moving action and we can't prevent you being invited, sorry.
+So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response from us. It is a byproduct of our moving action and we can't prevent you being invited, sorry.
 
-##What are all those BOTS doing there?
+##What are all those bots doing there?
 
 To make our live easier we have the support of four bots that you either can interact with or make you aware of posts that might need our attention.
 
@@ -127,8 +129,8 @@ The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
 **Pham**  
 [Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various pieces of information about the post) to questions/answers which are potentially deemed (very) low quality, the bot is *not* intended to detect spam/abusive posts.
 
-**Yam**  
-[Yam](https://github.com/ArcticEcho/Phamhilator) doesn't "hunt down VLQ/spam", but rather quietly logs every active post on the Stack Exchange network which is then later used by Pham to improve his detection.
+**Yam (aka GraveRobber)**  
+[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrent reopening.
 
 ##How can I join in?
 
@@ -138,7 +140,7 @@ If you can't wait until a weekly event, or want to help out more often, we do a 
 
 ##What if you make a mistake?
 
-We are all humans and have different backgrounds but solid reputation in a wide-range of tags. If you feel we mis-judged a gem, closed for the wrong reason or blindly followed advice from our peers feel free to ask for a reopen. Based on your feedback we'll learn, improve your question and help in getting it re-opened by casting re-open votes. This will improve our actions, so please provide feedback.
+We are all humans and have different backgrounds but solid reputation in a wide-range of tags. If you feel we misjudged a gem, closed for the wrong reason or blindly followed advice from our peers feel free to ask for a reopen. Based on your feedback we'll learn, improve your question and help in getting it re-opened by casting re-open votes. This will improve our actions, so please provide feedback.
 
 ##Any resources to help?
 
