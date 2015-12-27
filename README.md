@@ -81,7 +81,7 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 * Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 ## Who are the room owners?
-The room owners are
+The room owners are:
 
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
