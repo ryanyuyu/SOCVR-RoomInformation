@@ -83,11 +83,11 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 ## Who are the room owners?
 The room owners are
 
-* [rene](http://stackoverflow.com/users/578411/rene),
-* [gunr2171](http://stackoverflow.com/users/1043380/gunr2171),
-* [durron597](http://stackoverflow.com/users/1768232/durron597),
-* [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver),
-* [Tiny Giant](http://chat.stackoverflow.com/users/4639281).
+* [rene](http://stackoverflow.com/users/578411/rene)
+* [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
+* [durron597](http://stackoverflow.com/users/1768232/durron597)
+* [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
+* [Tiny Giant](http://chat.stackoverflow.com/users/4639281)
 
 [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in a while.
 
