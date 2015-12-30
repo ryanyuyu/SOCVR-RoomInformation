@@ -52,12 +52,12 @@ If the previous has not solved the issue, we will stop the discussion and redire
 You can request people to review a post to add **Close Votes**, but mind the bullet points under "General Expectations for Members".
 
 ###General expectations for members:
+* Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
 * [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
 * Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
 * Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
 * Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
 * Work **with** the OP to get their post into shape; most content has some value.
-* Do not ask for up or down votes on any posts.
 * De-escalate in case of disagreement. 
 * Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
 * A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
