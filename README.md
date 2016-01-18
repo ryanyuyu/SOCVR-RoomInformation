@@ -82,12 +82,17 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 * Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 ## Who are the room owners?
-The room owners are:
+When you become a Room Owner we believe you are that for life. Even when circumstances changes and Room Owners turn down their participation knob we still feel they are part of the team. 
+
+The active room owners are:
 
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
-* [durron597](http://stackoverflow.com/users/1768232/durron597)
 * [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
+
+The inactive room owners are:
+
+* [durron597](http://stackoverflow.com/users/1768232/durron597)
 * [Tiny Giant](http://chat.stackoverflow.com/users/4639281)
 
 [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in a while.
