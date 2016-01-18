@@ -94,8 +94,8 @@ The inactive room owners are:
 
 * [durron597](http://stackoverflow.com/users/1768232/durron597)
 * [Tiny Giant](http://chat.stackoverflow.com/users/4639281)
-
-[Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) is the original room owner and creator of the room. [Dukeling](http://stackoverflow.com/users/1711796/dukeling) is also a room owner. Both stop by every once in a while.
+* [Andrew Cheong](http://stackoverflow.com/users/925913/andrew-cheong) - The original room owner and creator of the room. 
+* [Dukeling](http://stackoverflow.com/users/1711796/dukeling)
 
 ## Why do we need room owners?
 
