@@ -89,6 +89,7 @@ The active room owners are:
 * [rene](http://stackoverflow.com/users/578411/rene)
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
 * [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
+* [Sam](http://stackoverflow.com/users/2246344/sam)
 
 The inactive room owners are:
 
