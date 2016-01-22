@@ -1,7 +1,49 @@
+
 #What is the SO Close Vote Reviewers Chat Room?
 
 The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing, and clean-up efforts.
 
+This guideline has three sections:
+ - Quick Reference
+ - Background and in-depth guidance
+ - History: Our past to understand the present
+
+# Quick Reference
+
+###General expectations for members:
+* Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
+* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
+* Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
+* Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
+* Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
+* Work **with** the OP to get their post into shape; most content has some value.
+* De-escalate in case of disagreement. 
+* Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
+* A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
+* Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
+* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
+* No GIFs in chat. They are more distracting than one-boxed messages.
+* All members are accountable for their actions. (If/when such accountability is requested on meta.)
+* All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
+* In absence of all room owners, the members lead by example.
+* Keep it professional, keep a high standard.
+
+###Expectations for room owners:
+* Is a role model for the kind of participation expected.
+* Makes the final call in any dispute, unless the RO team decide otherwise.
+* Clears messages that are starred with a tag from the starboard
+* Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
+* Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
+* Start the meeting.
+* Schedule the events.
+* Reels in conversation if it gets out of hand.
+* Moves messages or conversations to SO Tavern or a trash bin if necessary.
+* Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
+
+
+# Background
+
+## What is the SO Close Vote Reviewers Chat Room?
 The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
 ## What sort of behavior is expected?
@@ -51,35 +93,6 @@ If the previous has not solved the issue, we will stop the discussion and redire
 
 You can request people to review a post to add **Close Votes**, but mind the bullet points under "General Expectations for Members".
 
-###General expectations for members:
-* Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
-* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
-* Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
-* Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
-* Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
-* Work **with** the OP to get their post into shape; most content has some value.
-* De-escalate in case of disagreement. 
-* Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
-* A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
-* Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
-* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
-* No GIFs in chat. They are more distracting than one-boxed messages.
-* All members are accountable for their actions. (If/when such accountability is requested on meta.)
-* All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
-* In absence of all room owners, the members lead by example.
-* Keep it professional, keep a high standard.
-
-###Expectations for room owners:
-* Is a role model for the kind of participation expected.
-* Makes the final call in any dispute, unless the RO team decide otherwise.
-* Clears messages that are starred with a tag from the starboard
-* Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
-* Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
-* Start the meeting.
-* Schedule the events.
-* Reels in conversation if it gets out of hand.
-* Moves messages or conversations to SO Tavern or a trash bin if necessary.
-* Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 ## Who are the room owners?
 When you become a Room Owner we believe you are that for life. Even when circumstances changes and Room Owners turn down their participation knob we still feel they are part of the team. 
@@ -165,7 +178,7 @@ The following is the Stack Exchange Data Exporter query we use for demeriting wh
 
 You can see the day-to-day progress of the size of the close vote [from this neat online graph](http://socvr.azurewebsites.net/). An explanation for the drops each day can be found on [this MSO post](http://meta.stackoverflow.com/questions/252584/enough-fuzzying-lets-let-everything-into-the-close-queue-and-age-out-questions).
 
-##History
+#History
 
 Let's face it. The Close Vote Queue on Stack Overflow is huge. It's a dauntingly large number. At one point, it was over 100k. It's a much tamer amount now, but it can feel like your contributions don't amount to anything. Hence the start of the
 initiative to [start a Close Vote room back in 2013](http://meta.stackoverflow.com/a/251956).
