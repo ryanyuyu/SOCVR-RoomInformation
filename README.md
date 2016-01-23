@@ -11,34 +11,35 @@ This guideline has three sections:
 # Quick Reference
 
 ###General expectations for members:
-* Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
-* [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
-* Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
-* Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
-* Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
-* Work **with** the OP to get their post into shape; most content has some value.
-* De-escalate in case of disagreement. 
-* Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
-* A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
-* Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
-* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
-* No GIFs in chat. They are more distracting than one-boxed messages.
-* All members are accountable for their actions. (If/when such accountability is requested on meta.)
-* All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
-* In absence of all room owners, the members lead by example.
-* Keep it professional, keep a high standard.
+ 1. Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
+ 2. [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
+ 3. Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
+ 4. Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
+ 5. Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
+ 6. Work **with** the OP to get their post into shape; most content has some value.
+ 7. De-escalate in case of disagreement. 
+ 8. Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
+ 9. A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
+ 10. Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
+ 11. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
+ 12. No GIFs in chat. They are more distracting than one-boxed messages.
+ 13. All members are accountable for their actions. (If/when such accountability is requested on meta.)
+ 14. All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
+ 15. In absence of all room owners, the members lead by example.
+ 16. Keep it professional, keep a high standard.
 
 ###Expectations for room owners:
-* Is a role model for the kind of participation expected.
-* Makes the final call in any dispute, unless the RO team decide otherwise.
-* Clears messages that are starred with a tag from the starboard
-* Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
-* Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
-* Start the meeting.
-* Schedule the events.
-* Reels in conversation if it gets out of hand.
-* Moves messages or conversations to SO Tavern or a trash bin if necessary.
-* Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
+ 17. Is a role model for the kind of participation expected.
+ 18. Makes the final call in any dispute, unless the RO team decide otherwise.
+
+ 19. Clears messages that are starred with a tag from the starboard
+ 20. Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
+ 21. Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
+ 22. Start the meeting.
+ 23. Schedule the events.
+ 24. Reels in conversation if it gets out of hand.
+ 25. Moves messages or conversations to SO Tavern or a trash bin if necessary.
+ 26. Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 
 # Background
