@@ -153,6 +153,8 @@ The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
 **Yam (aka GraveRobber)**  
 [Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrent reopening.
 
+All bots that post in the room have to be cleared by the Room Owner team. Without their prior approval bots will be kicked as soon as they appear.
+
 ##How can I join in?
 
 First, check out the [chat room's schedule of events](http://chat.stackoverflow.com/rooms/info/41570/so-close-vote-reviewers?tab=schedule). It's updated by the room owners and shows the weekly meet-ups. There are two time periods to choose from (you can choose both if you are able to) so that people in all time zones can join.
