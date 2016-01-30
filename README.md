@@ -62,7 +62,7 @@ You can request people to review a post to add **Close Votes**, but mind the bul
 * Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
 * A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
 * Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
-* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
+* Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, add some text alongside it.)
 * No GIFs in chat. They are more distracting than one-boxed messages.
 * All members are accountable for their actions. (If/when such accountability is requested on meta.)
 * All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
