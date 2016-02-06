@@ -1,6 +1,6 @@
 ## burnination guidance
 
-Burnination isd the process of removing a tag from Stack Overflow. This is done by moderating the questions baring that specific tag 
+Burnination is the process of removing a tag from Stack Overflow. This is done by moderating the questions baring that specific tag 
 until no questions have that tag anymore. The goal is to keep the value and get rid of the garbage.
 
 ### Process
