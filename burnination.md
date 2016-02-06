@@ -7,7 +7,7 @@ until no questions have that tag anymore. The goal is to keep the value and get 
 
 Taken from the Shog9 [answer](http://meta.stackoverflow.com/a/307124/578411) and adapted for our purpose:
 
-1. When a [meta-tag:burninate-request] is posted, it will be marked [meta-tag:status-review] until/unless it scores at least 20. 
+1. When a [burninate-request](http://meta.stackoverflow.com/questions/tagged/burninate-request) is posted, it will be marked [meta-tag:status-review] until/unless it scores at least 20. 
 If it never achieves this score, then it should not be acted on; don't interpret apathy as a sign of support.
 
 2. After reaching the threshold score, the request will be [meta-tag:featured] for one day, 
