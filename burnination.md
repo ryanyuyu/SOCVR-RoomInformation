@@ -9,11 +9,11 @@ This search query list [candiates](http://meta.stackoverflow.com/search?tab=vote
 
 We currently selected the followig tags from that list:
 
- - once
- - corners
- - close
- - guidelines
- - priority
+ - [once](http://meta.stackoverflow.com/questions/258571/burninate-once)
+ - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)
+ - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs)
+ - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)
+ - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)
 
 ### Process
 
