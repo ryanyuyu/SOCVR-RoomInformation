@@ -139,7 +139,7 @@ The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
 [Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various pieces of information about the post) to questions/answers which are potentially deemed (very) low quality, the bot is *not* intended to detect spam/abusive posts.
 
 **Yam (aka GraveRobber)**  
-[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrent reopening.
+[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrant reopening.
 
 ##How can I join in?
 
