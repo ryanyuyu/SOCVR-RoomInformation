@@ -92,7 +92,7 @@ If the previous has not solved the issue, we will stop the discussion and redire
 
 **Discussions** about whether or not **borderline** answers warrant flags are allowed, as long as you are actually interested in a discussion and you aren't trying to coerce users into flagging.
 
-**Comment flags** for rude/abusive comments are OK but **DO NOT** one-box the comment in out transcript as that might get chat flags which sort of defeats the goal in the first place.
+**Comment flags** for rude/abusive comments are OK but **DO NOT** one-box the comment in our transcript as that might get chat flags which sort of defeats the goal in the first place.
 
 You can request people to review a post to add **Close Votes**, but mind the bullet points under "General Expectations for Members".
 
