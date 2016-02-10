@@ -1,13 +1,13 @@
 ## burnination guidance
 
-Burnination is the process of removing a tag from Stack Overflow. This is done by moderating the questions baring that specific tag 
+Burnination is the process of removing a tag from Stack Overflow. This is done by moderating the questions bearing that specific tag 
 until no questions have that tag anymore. The goal is to keep the value and get rid of the garbage.
 
 ### Candiates
 
-This search query list [candiates](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano)
+This search query lists [candiate tags](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano).
 
-We currently selected the followig tags from that list:
+We have initially selected the following tags from that list:
 
  - [once](http://meta.stackoverflow.com/questions/258571/burninate-once)
  - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)
@@ -54,12 +54,10 @@ We don't fancy all of them due to their sheer size and limited resources. We sti
 
 ### Support from the Community Manager
 
-This process can't work without support from a Community Manager of Moderator.
+This process can't work without support from a Community Manager or Moderator.
 
-The informal go from Shog9 to make this work with the SO moderators in [here](http://chat.meta.stackexchange.com/transcript/message/4541030#4541030)
+The informal go from Shog9 to make this work with the SO moderators is in [here](http://chat.meta.stackexchange.com/transcript/message/4541030#4541030).
 
 Madara agreed to help out, [here](http://chat.stackoverflow.com/transcript/message/28601178#28601178).
 
-The SOCVR room is open for any criticism received in this process and the actions are public and can be scrutinized on meta if warranted.
-
-
+The SOCVR room is open for any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
