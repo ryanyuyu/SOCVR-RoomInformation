@@ -9,7 +9,7 @@ This search query lists [candiate tags](http://meta.stackoverflow.com/search?tab
 
 We have initially selected the following tags from that list:
 
- - ---[once](http://meta.stackoverflow.com/questions/258571/burninate-once)---
+ - [once](http://meta.stackoverflow.com/questions/258571/burninate-once) (burninated)
  - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)
  - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs)
  - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)
