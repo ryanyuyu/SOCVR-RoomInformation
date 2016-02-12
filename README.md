@@ -31,7 +31,6 @@ This guideline has three sections:
 ###Expectations for room owners:
  17. Is a role model for the kind of participation expected.
  18. Makes the final call in any dispute, unless the RO team decide otherwise.
-
  19. Clears messages that are starred with a tag from the starboard
  20. Keeps the number of pinned items in the starboard to a minimum. It's ok to update and replace an existing if the information is still relevant.
  21. Keep the tags that the room is working on in the description of the chat room. This way we don't need to use pinned messages.
@@ -42,10 +41,10 @@ This guideline has three sections:
  26. Moves handled cv-pls request to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230).
 
 
-# Background
+# Commom questions 
 
 ## What is the SO Close Vote Reviewers Chat Room?
-The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” (type: [tag:cv-pls]) requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
 
 ## What sort of behavior is expected?
 
