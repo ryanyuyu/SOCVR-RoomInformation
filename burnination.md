@@ -23,7 +23,7 @@ Taken from the Shog9 [answer](http://meta.stackoverflow.com/a/307124/578411) and
 If it never achieves this score, then it should not be acted on; don't interpret apathy as a sign of support.
 
 2. After reaching the threshold score, the request will be `[meta-tag:featured]` for one day, 
-exposing it to as much attention on Stack Overflow as possible. Notice that any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with *Should we burnitiate [name of tag]?* and this not to be edited back!  
+exposing it to as much attention on Stack Overflow as possible. Notice that any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with *Should we burninate [name of tag]?* and this not to be edited back!  
 This will be a chance for folks to show their support *and* a chance for folks who thought it was too silly to be worth 
 talking about to step up and explain why the request should be denied. 
 
