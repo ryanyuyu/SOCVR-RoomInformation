@@ -1,4 +1,4 @@
-## burnination guidance
+## Burnination Guidance
 
 Burnination is the process of removing a tag from Stack Overflow. This is done by moderating the questions bearing that specific tag 
 until no questions have that tag anymore. The goal is to keep the value and get rid of the garbage.
@@ -17,13 +17,13 @@ We have initially selected the following tags from that list:
 
 ### Process
 
-Taken from the Shog9 [answer](http://meta.stackoverflow.com/a/307124/578411) and adapted for our purpose:
+Taken from [this answer](http://meta.stackoverflow.com/a/307124/578411) by Shog9 and adapted for our purpose:
 
 1. When a [burninate-request](http://meta.stackoverflow.com/questions/tagged/burninate-request) is posted, it will be marked [meta-tag:status-review] until/unless it scores at least 20. 
 If it never achieves this score, then it should not be acted on; don't interpret apathy as a sign of support.
 
 2. After reaching the threshold score, the request will be `[meta-tag:featured]` for one day, 
-exposing it to as much attention on Stack Overflow as possible. Notice that any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with *Should we burninate [name of tag]?* and this not to be edited back!  
+exposing it to as much attention on Stack Overflow as possible. (Note, any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with, "*Should we burninate [name of tag]?*" This should not be edited back!)  
 This will be a chance for folks to show their support *and* a chance for folks who thought it was too silly to be worth 
 talking about to step up and explain why the request should be denied. 
 
@@ -56,8 +56,8 @@ We don't fancy all of them due to their sheer size and limited resources. We sti
 
 This process can't work without support from a Community Manager or Moderator.
 
-The informal go from Shog9 to make this work with the SO moderators is in [here](http://chat.meta.stackexchange.com/transcript/message/4541030#4541030).
+The informal "go" from Shog9 to make this work with the SO moderators is in [here](http://chat.meta.stackexchange.com/transcript/message/4541030#4541030).
 
 Madara agreed to help out, [here](http://chat.stackoverflow.com/transcript/message/28601178#28601178).
 
-The SOCVR room is open for any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
+The SOCVR room is open to any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
