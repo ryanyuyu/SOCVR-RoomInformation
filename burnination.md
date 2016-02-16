@@ -5,7 +5,7 @@ until no questions have that tag anymore. The goal is to keep the value and get 
 
 ### Candiates
 
-This search query lists [candiate tags](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano).
+This search query lists [candidate tags](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano).
 
 We have initially selected the following tags from that list:
 
