@@ -85,7 +85,9 @@ If the previous has not solved the issue, we will stop the discussion and redire
 
 ## Can I request flags?
 
-**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here; a mod will see them anyway, and the amount of flags on a post has no bearing on the action they take. 
+**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here<sup>*</sup>; a mod will see them anyway, and the amount of flags on a post has no bearing on the action they take.
+
+<sup>\*</sup> Requests to *re-flag* a post are allowed; only if the previous flag was invalidated due to an edit.
 
 **Spam** and **Offensive** flag requests are allowed; if enough of these flags accumulate, the post will be automatically deleted. 
 
@@ -152,7 +154,7 @@ The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is
 [Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various pieces of information about the post) to questions/answers which are potentially deemed (very) low quality, the bot is *not* intended to detect spam/abusive posts.
 
 **Yam (aka GraveRobber)**  
-[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrent reopening.
+[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrant reopening.
 
 All bots that post in the room have to be cleared by the Room Owner team. Without their prior approval bots will be kicked as soon as they appear.
 
