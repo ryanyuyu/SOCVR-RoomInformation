@@ -10,7 +10,7 @@ This search query lists [candidate tags](http://meta.stackoverflow.com/search?ta
 We have initially selected the following tags from that list:
 
  - [once](http://meta.stackoverflow.com/questions/258571/burninate-once) (burninated)
- - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)
+ - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner) (on-going)
  - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs)
  - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)
  - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)
@@ -23,8 +23,24 @@ Taken from [this answer](http://meta.stackoverflow.com/a/307124/578411) by Shog9
 If it never achieves this score, then it should not be acted on; don't interpret apathy as a sign of support.
 
 2. After reaching the threshold score, the request will be `[meta-tag:featured]` for one day, 
-exposing it to as much attention on Stack Overflow as possible. (Note, any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with, "*Should we burninate [name of tag]?*" This should not be edited back!)  
-This will be a chance for folks to show their support *and* a chance for folks who thought it was too silly to be worth 
+exposing it to as much attention on Stack Overflow as possible.   
+ - Any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with, "*Should we burninate [name of tag]?*"
+ - The top of the post the following hidden warning and public notice will be added:
+ ``` 
+  <!--
+      MODERATOR NOTE TO EDITORS:
+      Please don't edit post title while it has featured tag.
+      If you ignore this note, it will be considered as abuse and handled accordingly.
+  --> 
+  
+  *This tag is in phase 2 of the burnination process described [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md). 
+  The question and comments have been cleaned to allow for on-topic discussion on this tag, 
+  please keep it that way. If you want to discuss the process itself, visit the
+  [SOCVR](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) room.*
+ ```
+ - The question will get a post notice: Featured Burninate Request
+
+ This will be a chance for folks to show their support *and* a chance for folks who thought it was too silly to be worth 
 talking about to step up and explain why the request should be denied. 
 
 3. After its day in the spotlight, a moderator, or someone else on the Community Team 
