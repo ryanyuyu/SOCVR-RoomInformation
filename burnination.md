@@ -25,7 +25,7 @@ If it never achieves this score, then it should not be acted on; don't interpret
 2. After reaching the threshold score, the request will be `[meta-tag:featured]` for one day, 
 exposing it to as much attention on Stack Overflow as possible.   
  - Any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with, "*Should we burninate [name of tag]?*"
- - The top of the post the following hidden warning and public notice will be added:
+ - The top of the post the following [hidden warning](http://meta.stackoverflow.com/a/317046/578411) and public notice will be added:
  ``` 
   <!--
       MODERATOR NOTE TO EDITORS:
