@@ -175,7 +175,7 @@ Members of chat have made some user scripts to help make your life easier (or ju
 * [Shortcut keys](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/CloseVoteShortcuts.user.js) - A script that allows a user to use the number keys to click review buttons, speeding up review time.
 * [Pre-baked Comments](https://github.com/SO-Close-Vote-Reviewers/auto-comments) to be used with [Auto review Comments](http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se)
 * [Bot Commands Auto-complete](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/BotCommands.user.js) - Auto completes commands for the chat bot.
-* [Stack Exchange Editor Toolkit](https://github.com/Tiny-Giant/Stack-Exchange-Editor-Toolkit) - Fixes most common grammatical and usage errors with a click
+* [Stack Exchange Editor Toolkit](https://github.com/SO-Close-Vote-Reviewers/UserScripts/blob/master/Magic%E2%84%A2Editor.user.js) - Fixes most common grammatical and usage errors with a click
 * [Other user scripts](https://github.com/SO-Close-Vote-Reviewers/UserScripts)
 
 We have a chat bot that you can play around with and help keep track of our activities. You can find the code base [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot). The bot's name is `Closey`; hop in the room and type `@Closey help`.
