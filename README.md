@@ -21,7 +21,7 @@ This guideline has three sections:
  8. Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
  9. A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
  10. Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
- 11. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, put some text in front of it.)
+ 11. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, use link syntax to make the link "natural")
  12. No GIFs in chat. They are more distracting than one-boxed messages.
  13. All members are accountable for their actions. (If/when such accountability is requested on meta.)
  14. All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
