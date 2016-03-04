@@ -49,7 +49,7 @@ will review the request and any arguments against it.
 A high influx of down votes or fresh comments during it's featured phase is a signal to hold back on burnination.
 
 4. If the tag can be cleanly removed at this point, the moderator skips directly to step #6. 
-If it requires further disambiguation, the request will be tagged [meta-tag:status-planned] signalling that it is 
+If it requires further disambiguation, the request will be tagged `[meta-tag:status-planned]` signalling that it is 
 time for widespread review and revision of the questions in the tag. 
 [This is the time to clean up the edges](http://meta.stackexchange.com/questions/239190/when-to-burninate/239191#239191). 
 **During this time, the tag will be blacklisted with a message that links back to the request meta post.**. 
