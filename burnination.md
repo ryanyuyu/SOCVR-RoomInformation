@@ -11,7 +11,7 @@ We have initially selected the following tags from that list:
 
  - [once](http://meta.stackoverflow.com/questions/258571/burninate-once) (burninated)
  - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner) (burninated)
- - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs) (preparing)
+ - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs) (in-process)
  - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)
  - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)
 
