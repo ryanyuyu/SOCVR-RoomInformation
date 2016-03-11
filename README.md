@@ -27,6 +27,7 @@ This guideline has three sections:
  14. All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
  15. In absence of all room owners, the members lead by example.
  16. Keep it professional, keep a high standard.
+ 17. Moderate the post, not the user. (keep the discussion on the merits of the post, not on behavior of the user)
 
 ## Expectations for room owners:
  17. Is a role model for the kind of participation expected.
