@@ -4,7 +4,7 @@ This page decribes room meeting for the SOCVR room.
 
 ### Agenda
 
-* Item
+* Can we ask for someone in the room to edit in a relevant tag on a question so that it can be single-handedly closed with the hammer?
 * Item
 * Item
 
