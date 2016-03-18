@@ -108,6 +108,8 @@ The active room owners are:
 * [gunr2171](http://stackoverflow.com/users/1043380/gunr2171)
 * [NathanOliver](http://stackoverflow.com/users/4342498/nathanoliver)
 * [Sam](http://stackoverflow.com/users/2246344/sam)
+* [Mogsdad](http://stackoverflow.com/users/1677912/mogsdad)
+* [Tunaki](http://stackoverflow.com/users/1743880/tunaki)
 
 The inactive room owners are:
 
