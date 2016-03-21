@@ -1,4 +1,4 @@
-This page decribes room meeting for the SOCVR room.
+This page describes room meeting for the SOCVR room.
 
 ## March 2016
 
@@ -8,6 +8,7 @@ This page decribes room meeting for the SOCVR room.
 * Should we leave a comment under posts that were closed as a result of a cv-pls in order to let the OP know how to improve their question?
 * Does the room need to be renamed so that it doesn't focus only on "Close" activity?
 * Are the activities of the room effective at meeting its goals? What can / should we do to make our votes more effective?
+* Are we okay with having a lot of members being privileged Smokey users? Should only RO be privileged in SOCVR and let members be privileged in Charcoal HQ if they really want to?
 
 ### Resolutions
 
