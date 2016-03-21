@@ -1,4 +1,4 @@
-This page describes room meeting for the SOCVR room.
+Periodically SOCVR will have room-wide meetings where we discuss room policies and behavior. This page outlines what we talked about.
 
 ## April 2016
 
