@@ -9,6 +9,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 * Does the room need to be renamed so that it doesn't focus only on "Close" activity?
 * Are the activities of the room effective at meeting its goals? What can / should we do to make our votes more effective?
 * Are we okay with having a lot of members being privileged Smokey users? Should only RO be privileged in SOCVR and let members be privileged in Charcoal HQ if they really want to?
+* Should we have an SOCVR Code of Conduct that all regulars are expected to follow, not only in SOCVR but also on SO / MSO / chat / any and all SE places?
 
 ### Resolutions
 
