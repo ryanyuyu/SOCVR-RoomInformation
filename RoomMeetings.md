@@ -12,6 +12,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 * Should we have an SOCVR Code of Conduct that all regulars are expected to follow, not only in SOCVR but also on SO / MSO / chat / any and all SE places?
 * Creating editing events as well as close events (specially while burnating tags), if so, coordination of edits needs to be discussed.
 * On smoke detector message when a post only needs to be edit, find a rule to avoid conflicting edits attempts, example we post chat message "I will edit" or similar.
+* Should we move the [burnination process](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md) to a meta question?
 
 ### Resolutions
 
