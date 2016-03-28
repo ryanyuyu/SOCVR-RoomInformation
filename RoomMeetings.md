@@ -14,6 +14,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 * Creating editing events as well as close events (specially while burnating tags); if so, coordination of edits needs to be discussed.
 * On smoke detector message where a post only needs to be edited, find a rule to avoid conflicting edits attempts. Example: we post a chat message "I will edit" or similar.
 * Should we move the [burnination process](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md) to a meta question?
+* Should burnination be officially [undertaken by SOCVR](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md#process) or should a new "Burninators" specialized room handle it?
 
 ### Resolutions
 
