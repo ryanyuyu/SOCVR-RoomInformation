@@ -153,11 +153,8 @@ This room is about content, not users.
 **Closey (aka SOCVR-Chatbot)**  
 The [SOCVR-Chatbot](https://github.com/SO-Close-Vote-Reviewers/SOCVR-Chatbot) is designed to track the actions of the members, provide statistics, and perform repetitive tasks that otherwise would have to be done manually.
 
-**Pham**  
-[Pham](https://github.com/ArcticEcho/Phamhilator) posts a link (including various pieces of information about the post) to questions/answers which are potentially deemed (very) low quality, the bot is *not* intended to detect spam/abusive posts.
-
 **Yam (aka GraveRobber)**  
-[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks cv-pls'es which are moved to the graveyard to see if any of the posts warrant reopening.
+[Yam](https://github.com/SO-Close-Vote-Reviewers/GraveRobber) checks [cv-pls]es which are moved to the graveyard to see if any of the posts warrant reopening.
 
 All bots that post in the room have to be cleared by the Room Owner team. Without their prior approval bots will be kicked as soon as they appear.
 
