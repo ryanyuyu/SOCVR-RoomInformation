@@ -28,7 +28,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Can we ask for someone in the room to edit in a relevant tag on a question so that it can be single-handedly closed with the hammer?
 
-<!-- resolution -->
+[we will not allow tag-editing for handing off to gold badge holders.](http://chat.stackoverflow.com/rooms/108179/conversation/2016-april-topic-1)
 
 #### Should we leave a comment under posts that were closed as a result of a cv-pls in order to let the OP know how to improve their question? If so on which close reasons?
 
