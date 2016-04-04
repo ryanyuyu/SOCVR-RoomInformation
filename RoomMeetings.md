@@ -64,7 +64,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Should we move the [burnination process](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md) to a meta question?
 
-<!-- resolution -->
+[I made a start here: meta.stackoverflow.com/a/…]()
 
 #### Should burnination be officially [undertaken by SOCVR](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md#process) or should a new "Burninators" specialized room handle it?
 
