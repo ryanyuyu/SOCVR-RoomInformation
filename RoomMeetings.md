@@ -44,7 +44,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### What can / should we do to make our votes more effective?
 
-<!-- resolution -->
+[We need a diverse toolset, based on each others need, we need to evaluate what we have now, improve them in the next few months and re-visit this topic the next meeting.]
 
 #### Are we okay with having a lot of members being privileged Smokey users? Should only RO be privileged in SOCVR and let members be privileged in Charcoal HQ if they really want to?
 
