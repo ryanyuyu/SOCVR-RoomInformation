@@ -60,7 +60,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### On smoke detector message where a post only needs to be edited, find a rule to avoid conflicting edits attempts. Example: we post a chat message "I will edit" or similar.
 
-<!-- resolution -->
+[I think this should be the same as comments when cv-plsing. Not required or officially encouraged, but a "nice to do".]()
 
 #### Should we move the [burnination process](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md) to a meta question?
 
