@@ -40,7 +40,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Are the activities of the room effective at meeting its goals?
 
-<!-- resolution -->
+[So yes I'd say we see on a daily basis that we are effective at meeting our goals]()
 
 #### What can / should we do to make our votes more effective?
 
