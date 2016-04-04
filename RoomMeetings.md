@@ -2,7 +2,12 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 ## April 2016
 
+<!-- [Bookmark to event](link) -->
+
 ### Agenda
+
+<!-- add this to each bullet point -->
+<!-- [Bookmark](link to topic start) -->
 
 * Can we ask for someone in the room to edit in a relevant tag on a question so that it can be single-handedly closed with the hammer?
 * Should we leave a comment under posts that were closed as a result of a cv-pls in order to let the OP know how to improve their question? If so on which close reasons?
@@ -18,6 +23,49 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 ### Resolutions
 
-<!-- fill in what we decide on -->
+<!-- add this to each section -->
+<!-- [Bookmark](link to topic start) -->
 
-<!-- Please fill in the rest -->
+#### Can we ask for someone in the room to edit in a relevant tag on a question so that it can be single-handedly closed with the hammer?
+
+<!-- resolution -->
+
+#### Should we leave a comment under posts that were closed as a result of a cv-pls in order to let the OP know how to improve their question? If so on which close reasons?
+
+<!-- resolution -->
+
+#### Does the room/group need to be renamed to reflect the fact that it doesn't focus only on "Close" activity?
+
+<!-- resolution -->
+
+#### Are the activities of the room effective at meeting its goals?
+
+<!-- resolution -->
+
+#### What can / should we do to make our votes more effective?
+
+<!-- resolution -->
+
+#### Are we okay with having a lot of members being privileged Smokey users? Should only RO be privileged in SOCVR and let members be privileged in Charcoal HQ if they really want to?
+
+<!-- resolution -->
+
+#### Should we have an SOCVR Code of Conduct that all regulars are expected to follow, not only in SOCVR but also on SO / MSO / chat / any and all SE places?
+
+<!-- resolution -->
+
+#### Creating editing events as well as close events (specially while burnating tags); if so, coordination of edits needs to be discussed.
+
+<!-- resolution -->
+
+#### On smoke detector message where a post only needs to be edited, find a rule to avoid conflicting edits attempts. Example: we post a chat message "I will edit" or similar.
+
+<!-- resolution -->
+
+#### Should we move the [burnination process](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md) to a meta question?
+
+<!-- resolution -->
+
+#### Should burnination be officially [undertaken by SOCVR](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md#process) or should a new "Burninators" specialized room handle it?
+
+<!-- resolution -->
