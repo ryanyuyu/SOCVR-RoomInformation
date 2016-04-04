@@ -32,7 +32,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Should we leave a comment under posts that were closed as a result of a cv-pls in order to let the OP know how to improve their question? If so on which close reasons?
 
-<!-- resolution -->
+[No, we should not leave comments under posts that were cv-plsed. It is left up to the user making the request."](http://chat.stackoverflow.com/rooms/108179/conversation/2016-april-topic-2)
 
 #### Does the room/group need to be renamed to reflect the fact that it doesn't focus only on "Close" activity?
 
