@@ -48,7 +48,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Are we okay with having a lot of members being privileged Smokey users? Should only RO be privileged in SOCVR and let members be privileged in Charcoal HQ if they really want to?
 
-<!-- resolution -->
+[we are fine with members of SOCVR having permissions to run the bot. RO's will monitor for bot misuse and anyone can bring up odd behavior to the Charcoal room.]()
 
 #### Should we have an SOCVR Code of Conduct that all regulars are expected to follow, not only in SOCVR but also on SO / MSO / chat / any and all SE places?
 
