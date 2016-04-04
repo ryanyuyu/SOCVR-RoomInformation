@@ -52,7 +52,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Should we have an SOCVR Code of Conduct that all regulars are expected to follow, not only in SOCVR but also on SO / MSO / chat / any and all SE places?
 
-<!-- resolution -->
+[If SO rules aren't good enough, let's fix the SO rules.]()
 
 #### Creating editing events as well as close events (specially while burnating tags); if so, coordination of edits needs to be discussed.
 
