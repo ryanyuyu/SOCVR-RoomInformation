@@ -86,7 +86,7 @@ If the previous has not solved the issue, we will stop the discussion and redire
 
 ## Can I request flags?
 
-**Not an Answer** (**NaA**) and **Very Low Quality** (**VLQ**) flag requests are not allowed here<sup>*</sup>; a mod will see them anyway, and the amount of flags on a post has no bearing on the action they take.
+**Very Low Quality** (**VLQ**) flag requests are not allowed here<sup>*</sup>; a mod will see them anyway, and the amount of flags on a post has no bearing on the action they take.
 
 <sup>\*</sup> Requests to *re-flag* a post are allowed; only if the previous flag was invalidated due to an edit.
 
