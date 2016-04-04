@@ -56,7 +56,7 @@ Periodically SOCVR will have room-wide meetings where we discuss room policies a
 
 #### Creating editing events as well as close events (specially while burnating tags); if so, coordination of edits needs to be discussed.
 
-<!-- resolution -->
+[Is there any disagreement to having trial edit events?]() _spoiler: No_
 
 #### On smoke detector message where a post only needs to be edited, find a rule to avoid conflicting edits attempts. Example: we post a chat message "I will edit" or similar.
 
