@@ -164,9 +164,20 @@ First, check out the [chat room's schedule of events](http://chat.stackoverflow.
 
 If you can't wait until a weekly event, or want to help out more often, we do a smaller review session each day. Hop into chat between 17:00 and 22:00 UTC and help us fight the queue (times change by day and member availability).
 
-## What if you make a mistake?
+## What if I think you make a mistake?
 
 We are all humans and have different backgrounds but solid reputation in a wide-range of tags. If you feel we misjudged a gem, closed for the wrong reason or blindly followed advice from our peers feel free to ask for a reopen. Based on your feedback we'll learn, improve your question and help in getting it re-opened by casting re-open votes. This will improve our actions, so please provide feedback.
+
+## Can I invite users here?
+
+It's encouraged to invite users to the chat room to discuss issues involving moderation activities that are coordinated or under discussion there.
+
+**Invitation etiquette**
+
+- An invitation means "join me, please", not "join me or I'll stab you!"
+- Set context for others in the room; before inviting a user to the room, post a message explaining _who_ you've invited and _why_, as well as any relevant _links_ for context.
+- Welcome the user if & when they come. If you extended the invitation, you should be prepared to lead and moderate any discussion with them.
+- Remember that the room members present are not your personal posse - everyone is equal in the discussion, including the invitee, and all opinions deserve to be heard and considered.
 
 ## Any resources to help?
 
