@@ -1,7 +1,7 @@
 
 # What is the SO Close Vote Reviewers Chat Room?
 
-The [SO Close Vote Review Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing, and clean-up efforts.
+The [SO Close Vote Reviewers Chat Room](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) is a group of like-minded people who want to make a difference in the CV queue, reviewing, and clean-up efforts.
 
 This guideline has three sections:
  - Quick Reference
