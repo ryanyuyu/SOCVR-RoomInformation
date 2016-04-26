@@ -144,7 +144,7 @@ So don't be alarmed or feel left out if the invite to the graveyard room doesn't
 To make our live easier we have the support of four bots that you either can interact with or make you aware of posts that might need our attention.
 
 **Smokey (aka Smoke Detector)**  
-The Smoke Detector is a  headless chatbot that detects spam or offensive content, then posts links to it to chatrooms for review.  It is created and maintained by the [CharCoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get reports for Stack Overflow.
+The Smoke Detector is a  headless chatbot that detects spam or offensive content, then posts links to it to chatrooms for review.  It is created and maintained by the [Charcoal team](https://github.com/Charcoal-SE). In the SOCVR room we only get reports for Stack Overflow.
 
 Smokey is for tracking spam, and offensive content. It is **not** for stalking regular users who happen to exhibit behaviors that you disagree with. If you see some behavior that you disagree with, please do not blacklist the user with smokey, instead use a custom moderator flag and explain what you think the problem is.
 
