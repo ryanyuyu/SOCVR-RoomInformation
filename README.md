@@ -45,7 +45,7 @@ This guideline has three sections:
 # Common questions
 
 ## What is the SO Close Vote Reviewers Chat Room?
-The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” (type: [tag:cv-pls]) requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, and feeding the [roomba][1].
+The moderation efforts of the room has broadened, but we still aim to reduce the close vote queue length. However, the room now acts pro-actively by issuing “`[cv-pls]`” (type: [tag:cv-pls]) requests, reopen voting, tag cleanup, burnination efforts, editing, coaching/commenting, delete voting, undelete voting, and feeding the [roomba][1].
 
 ## What sort of behavior is expected?
 
