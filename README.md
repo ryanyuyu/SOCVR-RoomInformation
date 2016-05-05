@@ -12,22 +12,22 @@ This guideline has three sections:
 
 ## General expectations for members:
  1. Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
- 2. [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. (Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.)
- 3. Members are not expected to close vote any post you bring up. (Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you.")
- 4. Avoid extended discussion about a cv-pls. (We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.)
+ 2. [[cv-pls]](http://sopython.com/wiki/cv-pls) should not be a habit for users. Don't make it an instinct to fast-track every eligible post to the front of the closure system. Exceptions are okay if the post is _really_ bad or the users in that tag can't close the post in time.
+ 3. Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you."
+ 4. Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.
  5. Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
  6. Work **with** the OP to get their post into shape; most content has some value.
  7. De-escalate in case of disagreement.
  8. Tag burnination requests and tag cleanup requests _must_ be backed by an [MSO](http://meta.stackoverflow.com) post with significant community support.
- 9. A post is to be actively handled by **only one** member of the room. (We don't need 4 members all leaving witty statements in the comments or in chat.)
- 10. Keep oneboxed images to a minimum. (We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.)
- 11. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. (When posting a URL, use link syntax to make the link "natural")
- 12. No GIFs in chat. They are more distracting than one-boxed messages.
- 13. All members are accountable for their actions. (If/when such accountability is requested on meta.)
- 14. All discussions are public. (The RO team has an offline/private lounge for sensitive subjects if necessary.)
+ 9. A post is to be actively handled by **only one** member of the room. We don't need 4 members all leaving witty statements in the comments or in chat.
+ 10. Keep oneboxed images to a minimum. We wish to keep the room civil and mostly on topic, but that does not mean you can't have a little tasteful fun too. At any of the room owner's discretion, images may be moved to trash at anytime without warning, such decisions are final. Obviously, offensive and NSFW images are grounds for being kicked and moderator intervention.
+ 11. Please refrain from using [oneboxes](http://chat.stackoverflow.com/faq#formatting)/noisy formatting. When posting a URL, use link syntax to make the link flow with the text, like "look at [this post](http://www.example.com/)".
+ 12. No GIFs or other animated images in chat. They are more distracting than one-boxed messages.
+ 13. All members are accountable for their actions if/when such accountability is requested on meta.
+ 14. All discussions are public. The RO team has an offline/private lounge for sensitive subjects if necessary.
  15. In absence of all room owners, the members lead by example.
  16. Keep it professional, keep a high standard.
- 17. Moderate the post, not the user. (keep the discussion on the merits of the post, not on behavior of the user)
+ 17. Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior of the user.
 
 ## Expectations for room owners:
  17. Is a role model for the kind of participation expected.
