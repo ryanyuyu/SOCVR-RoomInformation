@@ -13,7 +13,7 @@ We have initially selected the following tags from that list:
  - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner) (burninated)
  - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs) (burninated)
  - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines) (burninated)
- - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority) (planned)
+ - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority) (burninated)
 
 ### Process
 
