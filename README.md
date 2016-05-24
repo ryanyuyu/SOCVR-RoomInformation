@@ -12,12 +12,11 @@ This guideline has three sections:
 
 ## General expectations for members:
  1. Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
- 2. [[cv-pls]](http://meta.stackoverflow.com/a/262359) should **not** be a habit for users. Some ground rules:
-   - Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
-   - Exceptions are okay for _really_ bad (low quality magnets) posts;  
-   - (Meta) attention where a bad example is used to justify other crap;
-   - There is recent activity on the question (Edits, VLQ/NAA answer)
-   - There are not enough Users in that tag to close the post in time.  
+ 2. [[cv-pls]](http://meta.stackoverflow.com/a/262359) should **not** be a habit for users.  Don't make it an instinct to fast-track every eligible post to the front of the closure system;  cv-pls is for posts that:
+   -  are _really_ bad (low quality magnets)
+   -  are a bad example used to justify other crap
+   - have recent activity on the question (Edits, VLQ/NAA answer)
+   - don't have enough users in that tag to close the post in time  
  3. Members are not expected to close vote any post you bring up. Furthermore, do not pressure anyone into doing so. cv-pls means "close vote please", not "close vote or I'll stab you."
  4. Avoid extended discussion about a cv-pls. We don't have to agree about a close request. We're not a democracy. However, users that are posting cv-pls'es that are blatantly wrong will be told so. The final verdict is on the RO team.
  5. Do not post feedback on success (or failure) of a cv-pls request. (I.e., no "boom"ing.)
