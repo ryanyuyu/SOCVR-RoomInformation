@@ -12,7 +12,7 @@ This guideline has three sections:
 
 ## General expectations for members:
  1. Do not ask for up or down votes on any posts. While Shog9 has allowed organized voting in chat rooms, we do not want to be seen as a voting mob. Our goal requires a certain level of support from the community at large, as such we don't want anything in the transcript that could be perceived as us treating people unfairly.
- 2. [[cv-pls]](http://sopython.com/wiki/cv-pls) should **not** be a habit for users. Some ground rules:
+ 2. [[cv-pls]](http://meta.stackoverflow.com/a/262359) should **not** be a habit for users. Some ground rules:
    - Don't make it an instinct to fast-track every eligible post to the front of the closure system;  
    - Exceptions are okay for _really_ bad (low quality magnets) posts;  
    - (Meta) attention where a bad example is used to justify other crap;
