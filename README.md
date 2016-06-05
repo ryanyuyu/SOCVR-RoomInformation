@@ -33,6 +33,11 @@ This guideline has three sections:
  16. Keep it professional, keep a high standard.
  17. Moderate the post, not the user. Keep the discussion on the merits of the post, not on behavior of the user.
  18. If you leave a comment (or custom close reason) be prepared to interact with the OP. In all cases be nice and helpful.
+ 19. We moderate the content of posts on Stack Overflow for closure. This means that we *DO NOT* moderate:
+   * User accounts (even if they are posting spam)
+   * Other chat rooms
+   * Meta Stack Overflow
+   * Other Stack Exchange sites
 
 ## Expectations for room owners:
  17. Is a role model for the kind of participation expected.
