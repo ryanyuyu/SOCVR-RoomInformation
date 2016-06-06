@@ -1,79 +1,126 @@
-## Burnination Guidance
+## Burnination Backlog
 
-Burnination is the process of removing a tag from Stack Overflow. This is done by moderating the questions bearing that specific tag 
+Burnination is the [process of removing a tag](http://meta.stackoverflow.com/questions/324070/what-is-the-process-for-burninating-tags) from Stack Overflow. This is done by moderating the questions bearing that specific tag 
 until no questions have that tag anymore. The goal is to keep the value and get rid of the garbage.
 
-### Candidates
+### Burninate Requests and candidates
 
-This search query lists [candidate tags](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano).
+[all burninate requests that are not closed and have no status](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano)
 
-We have initially selected the following tags from that list:
+[This are the requests that passed the minimal requirement](http://meta.stackoverflow.com/search?q=%5Bburninate-request%5D+closed%3Ano+-%5Bstatus-*%5D+hasaccepted%3Ano+score%3A20)
 
- - [once](http://meta.stackoverflow.com/questions/258571/burninate-once) (burninated)
- - [corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner) (burninated)
- - [close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs) (burninated)
- - [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines) (burninated)
- - [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority) (burninated)
+[This is the SEDE Query we use to come up with the order in which the SOCVR handles burninate requests](http://data.stackexchange.com/meta.stackoverflow/query/493425/burninate-priority-list)
 
-### Process
+### Current Burnination Backlog for SOCVR
 
-Taken from [this answer](http://meta.stackoverflow.com/a/307124/578411) by Shog9 and adapted for our purpose:
+You can submit PR's if you want to change the order of an item 
 
-1. When a [burninate-request](http://meta.stackoverflow.com/questions/tagged/burninate-request) is posted, it will be marked `[meta-tag:status-review]` until/unless it scores at least 20. 
-If it never achieves this score, then it should not be acted on; don't interpret apathy as a sign of support.
+[moderation](http://meta.stackoverflow.com/q/322871)  
+[copyright](http://meta.stackoverflow.com/q/313012)  
+[friendship](http://meta.stackoverflow.com/q/308792)  
+[dark](http://meta.stackoverflow.com/q/266041)  
+[hdd](http://meta.stackoverflow.com/q/286177)  
+[maintaining-code](http://meta.stackoverflow.com/q/305896)  
+[goal](http://meta.stackoverflow.com/q/317120)  
+[initalization](http://meta.stackoverflow.com/q/322823)  
+[research](http://meta.stackoverflow.com/q/323081)  
+[magazine](http://meta.stackoverflow.com/q/284083)  
+[logical](http://meta.stackoverflow.com/q/284906)  
+[z-axis](http://meta.stackoverflow.com/q/268176)  
+[piracy-prevention](http://meta.stackoverflow.com/q/316041)  
+[track](http://meta.stackoverflow.com/q/321966)  
+[delivery](http://meta.stackoverflow.com/q/297165)  
+[ratio](http://meta.stackoverflow.com/q/277705)  
+[chr](http://meta.stackoverflow.com/q/270566)  
+[locals](http://meta.stackoverflow.com/q/295613)  
+[news](http://meta.stackoverflow.com/q/320847)  
+[beautifier](http://meta.stackoverflow.com/q/299905)  
+[stockquotes](http://meta.stackoverflow.com/q/267424)  
+[locked](http://meta.stackoverflow.com/q/273008)  
+[bootstrap-4](http://meta.stackoverflow.com/q/320458)  
+[value](http://meta.stackoverflow.com/q/294230)  
+[code-review](http://meta.stackoverflow.com/q/278138)  
+[fuzzy](http://meta.stackoverflow.com/q/265779)  
+[weight](http://meta.stackoverflow.com/q/269165)  
+[square](http://meta.stackoverflow.com/q/281668)  
+[code-smell](http://meta.stackoverflow.com/q/306314)  
+[bold](http://meta.stackoverflow.com/q/321214)  
+[texas-instruments](http://meta.stackoverflow.com/q/287618)  
+[delta](http://meta.stackoverflow.com/q/307088)  
+[master](http://meta.stackoverflow.com/q/298343)  
+[.net-framework-version](http://meta.stackoverflow.com/q/314248)  
+[beta](http://meta.stackoverflow.com/q/256306)  
+[pc](http://meta.stackoverflow.com/q/274463)  
+[virus](http://meta.stackoverflow.com/q/281542)  
+[clear](http://meta.stackoverflow.com/q/280269)  
+[wrap](http://meta.stackoverflow.com/q/302836)  
+[keyvaluepair](http://meta.stackoverflow.com/q/308728)  
+[user](http://meta.stackoverflow.com/q/268187)  
+[maxlength](http://meta.stackoverflow.com/q/280159)  
+[light](http://meta.stackoverflow.com/q/298681)  
+[jetbrains](http://meta.stackoverflow.com/q/254250)  
+[ansi](http://meta.stackoverflow.com/q/286622)  
+[extract](http://meta.stackoverflow.com/q/260827)  
+[detect](http://meta.stackoverflow.com/q/272872)  
+[railstutorial.org](http://meta.stackoverflow.com/q/294548)  
+[production-environment](http://meta.stackoverflow.com/q/284141)  
+[pop](http://meta.stackoverflow.com/q/261320)  
+[percentage](http://meta.stackoverflow.com/q/270556)  
+[apostrophe](http://meta.stackoverflow.com/q/289708)  
+[execution](http://meta.stackoverflow.com/q/306344)  
+[custom-error-pages](http://meta.stackoverflow.com/q/302652)  
+[result](http://meta.stackoverflow.com/q/251011)  
+[groups](http://meta.stackoverflow.com/q/254557)  
+[device](http://meta.stackoverflow.com/q/298565)  
+[product](http://meta.stackoverflow.com/q/285382)  
+[repeat](http://meta.stackoverflow.com/q/255432)  
+[rules](http://meta.stackoverflow.com/q/271750)  
+[advertising](http://meta.stackoverflow.com/q/280783)  
+[override](http://meta.stackoverflow.com/q/306828)  
+[core](http://meta.stackoverflow.com/q/287649)  
+[block](http://meta.stackoverflow.com/q/267662)  
+[collapse](http://meta.stackoverflow.com/q/254311)  
+[shopping-cart](http://meta.stackoverflow.com/q/313944)  
+[fetch](http://meta.stackoverflow.com/q/308267)  
+[instance](http://meta.stackoverflow.com/q/303954)  
+[conflict](http://meta.stackoverflow.com/q/284369)  
+[preview](http://meta.stackoverflow.com/q/289356)  
+[space](http://meta.stackoverflow.com/q/267659)  
+[like](http://meta.stackoverflow.com/q/286471)  
+[design](http://meta.stackoverflow.com/q/320690)  
+[bioinformatics](http://meta.stackoverflow.com/q/314756)  
+[website](http://meta.stackoverflow.com/q/258700)  
+[stylesheet](http://meta.stackoverflow.com/q/285768)  
+[publish](http://meta.stackoverflow.com/q/284786)  
+[call](http://meta.stackoverflow.com/q/255920)  
+[order](http://meta.stackoverflow.com/q/324407)  
+[extract](http://meta.stackoverflow.com/q/324057)  
+[project](http://meta.stackoverflow.com/q/278640)  
+[fragment](http://meta.stackoverflow.com/q/276216)  
+[web](http://meta.stackoverflow.com/q/250190)  
+[size](http://meta.stackoverflow.com/q/253139)  
+[version](http://meta.stackoverflow.com/q/251012)  
+[merge](http://meta.stackoverflow.com/q/297514)  
+[numbers](http://meta.stackoverflow.com/q/283129)  
+[open-source](http://meta.stackoverflow.com/q/284976)  
+[sum](http://meta.stackoverflow.com/q/254688)  
+[return](http://meta.stackoverflow.com/q/281168)  
+[range](http://meta.stackoverflow.com/q/281635)  
+[table](http://meta.stackoverflow.com/q/299728)  
+[content-management-system](http://meta.stackoverflow.com/q/323886)  
+[api](http://meta.stackoverflow.com/q/255437)  
+[pcl](http://meta.stackoverflow.com/q/307166)  
+[?](http://meta.stackoverflow.com/q/260218)  
+[?](http://meta.stackoverflow.com/q/278455)  
+[?](http://meta.stackoverflow.com/q/296857)  
+[?](http://meta.stackoverflow.com/q/260214)  
+[?](http://meta.stackoverflow.com/q/253502)  
+[?](http://meta.stackoverflow.com/q/268173)  
+[?](http://meta.stackoverflow.com/q/314344)  
+[?](http://meta.stackoverflow.com/q/250913)  
+[?](http://meta.stackoverflow.com/q/289771)  
+[microsoft](http://meta.stackoverflow.com/q/293754)  
+[*language*](http://meta.stackoverflow.com/q/254210)  
 
-2. After reaching the threshold score, the request will be `[meta-tag:featured]` for one day, 
-exposing it to as much attention on Stack Overflow as possible.   
- - Any [punny titles](	http://meta.stackoverflow.com/questions/295583/why-do-people-have-a-little-pun-with-their-retag-and-burninate-requests) will be replaced with, "*Should we burninate [name of tag]?*"
- - The top of the post the following [hidden warning](http://meta.stackoverflow.com/a/317046/578411) and public notice will be added:
- ``` 
-  <!--
-      MODERATOR NOTE TO EDITORS:
-      Please don't edit post title while it has featured tag.
-      If you ignore this note, it will be considered as abuse and handled accordingly.
-  --> 
-  
-  *This tag is in phase 2 of the burnination process described [here](https://github.com/SO-Close-Vote-Reviewers/SOCVR-RoomInformation/blob/master/burnination.md). 
-  The question and comments have been cleaned to allow for on-topic discussion on this tag, 
-  please keep it that way. If you want to discuss the process itself, visit the
-  [SOCVR](http://chat.stackoverflow.com/rooms/41570/so-close-vote-reviewers) room.*
- ```
- - The question will get a post notice: Featured Burninate Request
-
- This will be a chance for folks to show their support *and* a chance for folks who thought it was too silly to be worth 
-talking about to step up and explain why the request should be denied. 
-
-3. After its day in the spotlight, a moderator, or someone else on the Community Team 
-will review the request and any arguments against it. 
-[There are four criteria for burnination](http://meta.stackexchange.com/questions/239190/when-to-burninate/239191#239191) - if the tag doesn't meet any of them, **or if it is clear that removing it will do more harm than good...** The request will be declined. I'd have preferred to run this process purely on voting, but... That would inevitably lead to trouble. [Your distaste for a frustrating game shouldn't result in the destruction of otherwise-valid tags](http://meta.stackoverflow.com/questions/273079/we-have-a-flappy-bird-clone-tag-really). 
-A high influx of down votes or fresh comments during it's featured phase is a signal to hold back on burnination.
-
-4. If the tag can be cleanly removed at this point, the moderator skips directly to step #6. 
-If it requires further disambiguation, the request will be tagged `[meta-tag:status-planned]` signalling that it is 
-time for widespread review and revision of the questions in the tag. 
-[This is the time to clean up the edges](http://meta.stackexchange.com/questions/239190/when-to-burninate/239191#239191). 
-**During this time, the tag will be blacklisted with a message that links back to the request meta post.**. 
-The SOCVR room will be heading the effort. 
-
-5. When Step #4 is completed, whoever is spearheading this request will flag it for moderator attention and the moderator proceed to step #6.
-
-6. A moderator will ping a CM to delete any closed, downvoted questions in the tag and remove it from the system entirely. 
-This assumes the tag wasn't already removed during review in Step #4.
-
-### Search Query
-
-The following posts are candidates for above mentioned process:
-
-[Burninate Request](http://meta.stackoverflow.com/search?tab=votes&q=%5bburninate-request%5d%20closed%3ano%20answers%3a0%20-%5bstatus-*%5d)
-
-We don't fancy all of them due to their sheer size and limited resources. We still want it to be doable.
-
-### Support from the Community Manager
-
-This process can't work without support from a Community Manager or Moderator.
-
-The informal "go" from Shog9 to make this work with the SO moderators is in [here](http://chat.meta.stackexchange.com/transcript/message/4541030#4541030).
-
-Madara agreed to help out, [here](http://chat.stackoverflow.com/transcript/message/28601178#28601178).
 
 The SOCVR room is open to any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
