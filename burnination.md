@@ -15,7 +15,7 @@ until no questions have that tag anymore. The goal is to keep the value and get 
 
 You can submit PR's if you want to change the order of an item 
 
-[moderation](http://meta.stackoverflow.com/q/322871)  
+[moderation](http://meta.stackoverflow.com/q/322871)  (preparing)
 [copyright](http://meta.stackoverflow.com/q/313012)  
 [friendship](http://meta.stackoverflow.com/q/308792)  
 [dark](http://meta.stackoverflow.com/q/266041)  
