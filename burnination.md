@@ -5,7 +5,7 @@ until no questions have that tag anymore. The goal is to keep the value and get 
 
 ### Burninate Requests and candidates
 
-[Search]((http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano) for burninate requests that are not closed and have no status.  
+[Search](http://meta.stackoverflow.com/search?tab=votes&pagesize=50&q=%5bburninate-request%5d%20closed%3ano%20-%5bstatus-*%5d%20hasaccepted%3ano) for burninate requests that are not closed and have no status.  
 You can go over these post and comment or edit to improve their accurateness or answer if you feel burnination of the tag is not warranted.
 
 [This are the requests that passed the minimal requirement](http://meta.stackoverflow.com/search?q=%5Bburninate-request%5D+closed%3Ano+-%5Bstatus-*%5D+hasaccepted%3Ano+score%3A20)  
