@@ -20,7 +20,7 @@ You find the list below. The query forms our backlog. You can help out by focuss
 
 You can submit PR's if you want to change the order of an item 
 
-[moderation](http://meta.stackoverflow.com/q/322871)  (preparing)  
+[moderation](http://meta.stackoverflow.com/q/322871)  (current)  
 [friendship](http://meta.stackoverflow.com/q/308792)   
 [dark](http://meta.stackoverflow.com/q/266041)   
 [hdd](http://meta.stackoverflow.com/q/286177)   
