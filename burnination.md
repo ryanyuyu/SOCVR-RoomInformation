@@ -20,7 +20,6 @@ You find the list below. The query forms our backlog. You can help out by focuss
 
 You can submit PR's if you want to change the order of an item 
 
-[moderation](http://meta.stackoverflow.com/q/322871)  (current)  
 [friendship](http://meta.stackoverflow.com/q/308792)   
 [dark](http://meta.stackoverflow.com/q/266041)   
 [hdd](http://meta.stackoverflow.com/q/286177)   
@@ -121,5 +120,13 @@ You can submit PR's if you want to change the order of an item
 [microsoft](http://meta.stackoverflow.com/q/293754)   
 [pcl](http://meta.stackoverflow.com/q/307166)   
 
+### Burninated
+
+[once](http://meta.stackoverflow.com/questions/258571/burninate-once)  
+[corners](http://meta.stackoverflow.com/questions/295233/should-we-throw-corners-in-the-corner)  
+[close](http://meta.stackoverflow.com/questions/308117/lets-close-close-249-qs)  
+[guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)  
+[priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)  
+[moderation](http://meta.stackoverflow.com/q/322871)  
 
 The SOCVR room is open to any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
