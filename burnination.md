@@ -127,9 +127,8 @@ You can submit PR's if you want to change the order of an item
 [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)  
 [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)  
 [moderation](http://meta.stackoverflow.com/q/322871)  
+[friendship](http://meta.stackoverflow.com/q/308792)   (clean up)
 
-### Cleaned up
 
-[friendship](http://meta.stackoverflow.com/q/308792)   
 
 The SOCVR room is open to any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
