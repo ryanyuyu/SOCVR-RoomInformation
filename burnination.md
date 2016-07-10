@@ -20,7 +20,6 @@ You find the list below. The query forms our backlog. You can help out by focuss
 
 You can submit PR's if you want to change the order of an item 
 
-[friendship](http://meta.stackoverflow.com/q/308792)   
 [dark](http://meta.stackoverflow.com/q/266041)   
 [hdd](http://meta.stackoverflow.com/q/286177)   
 [research](http://meta.stackoverflow.com/q/323081)   
@@ -128,5 +127,9 @@ You can submit PR's if you want to change the order of an item
 [guidelines](http://meta.stackoverflow.com/questions/298984/we-dont-need-guidelines)  
 [priority](http://meta.stackoverflow.com/questions/285084/burninate-priority)  
 [moderation](http://meta.stackoverflow.com/q/322871)  
+
+### Cleaned up
+
+[friendship](http://meta.stackoverflow.com/q/308792)   
 
 The SOCVR room is open to any criticism received in this process; the actions are public and can be scrutinized on meta if warranted.
