@@ -142,10 +142,10 @@ We are also using a tactic for the queue’s filtering. By having all members co
 
 We don't want to become a close vote posse. Every user should handle the review based on their own opinion/knowledge, choosing leave open, close, edit or skip when appropriate. Concentrating attention on a question in the context of whether or not to close a question, severely biases attention toward closing the question.<sup>1</sup>
 
-## Why do you invite me to the CV Request Graveyard room?
+## Why do you invite me to the SOCVR Request Graveyard room?
 
-The room owners run a script on a regular basis to clean up the room transcript. Any cv-pls message that links to a question which is: closed/deleted, or has no close votes after 3 days will be moved to the [CV Request Graveyard](http://chat.stackoverflow.com/rooms/90230/cv-request-graveyard).
-In that process, if one of the cv-pls you posted gets moved, you get invited to that room. We're sorry about that, but we will not talk there or meet you there. That room is only meant to be the list of handled cv-pls messages.
+The room owners run a script on a regular basis to clean up the room's transcript. Any action request messages (such as: cv-pls, reopen-pls, etc.) will be moved to the [SOCVR Request Graveyard](http://chat.stackoverflow.com/rooms/90230) under certain conditions.
+In that process, if one of the requests you posted gets moved, you get invited to that room. We're sorry about that, but we will not talk there or meet you there. That room is only meant to be the list of handled action requests.
 
 So don't be alarmed or feel left out if the invite to the graveyard room doesn't result in any response from us. It is a byproduct of our moving action and we can't prevent you being invited, sorry.
 
